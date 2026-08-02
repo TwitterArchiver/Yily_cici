@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:44:08",
+  "last_updated": "2026-08-02T12:45:10",
   "html": {
     "https://web.archive.org/web/20260424170353if_/https://twitter.com/Yily_cici/status/2047723213413814472": {
       "status": "done",
@@ -4318,9 +4318,9 @@
       "referenced_by": [
         "20260426061820_twitter_com_Yily_cici_status_2048285529708573119.json"
       ],
-      "last_updated": "2026-08-02T12:30:22",
+      "last_updated": "2026-08-02T12:44:58",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260426061820/https://video.twimg.com/tweet_video/HGz41BaasAA3Ev3.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2048477485449543680/pu/vid/avc1/1280x720/O_0zFE8LkXKDR95V.mp4": {
       "status": "done",
@@ -4335,9 +4335,9 @@
         "20260427011158_twitter_com_Yily_cici_status_2048570820562419980.json",
         "20260427011252_twitter_com_Yily_cici_status_2048571046476038432.json"
       ],
-      "last_updated": "2026-08-02T12:30:24",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427011252/https://video.twimg.com/amplify_video/2048570801428049920/vid/avc1/540x852/LPfEhGB841frbHu_.mp4",
-      "miss_count": 4
+      "last_updated": "2026-08-02T12:45:00",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427011158/https://video.twimg.com/amplify_video/2048570801428049920/vid/avc1/540x852/LPfEhGB841frbHu_.mp4",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2043293925558173696/pu/vid/avc1/1280x720/gaRQrCNWOqSOO523.mp4": {
       "status": "done",
@@ -4365,18 +4365,18 @@
       "referenced_by": [
         "20260427080423_twitter_com_Yily_cici_status_2048674607985831982.json"
       ],
-      "last_updated": "2026-08-02T12:30:22",
+      "last_updated": "2026-08-02T12:45:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427080423/https://video.twimg.com/amplify_video/2048674569847009280/vid/avc1/720x1280/LdZ-4pfTHyyytp6c.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2048683618604879872/vid/avc1/686x892/zXgreprywYsxwmfB.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260427084020_twitter_com_Yily_cici_status_2048683652272533771.json"
       ],
-      "last_updated": "2026-08-02T12:30:23",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260427084020/https://video.twimg.com/amplify_video/2048683618604879872/vid/avc1/686x892/zXgreprywYsxwmfB.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T12:45:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427084020im_/https://video.twimg.com/amplify_video/2048683618604879872/vid/avc1/686x892/zXgreprywYsxwmfB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efe4a352a80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2071970853718274048/vid/avc1/734x720/kyjbnlvuPh12gVMt.mp4": {
       "status": "done",
@@ -4386,22 +4386,22 @@
       "last_updated": "2026-08-02T12:30:20"
     },
     "https://video.twimg.com/amplify_video/2081459307036684288/vid/avc1/464x976/rJOBWjD3g7knk1pq.mp4": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260726191907_twitter_com_Yily_cici_status_2081459318894047275.json"
       ],
-      "last_updated": "2026-08-02T12:30:23",
+      "last_updated": "2026-08-02T12:45:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260726191907/https://video.twimg.com/amplify_video/2081459307036684288/vid/avc1/464x976/rJOBWjD3g7knk1pq.mp4",
       "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/720x960/o5yqiXhdYfkOvq9z.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260728090622_twitter_com_Yily_cici_status_2082029887972622573.json"
       ],
-      "last_updated": "2026-08-02T11:31:36",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260728090622/https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/720x960/o5yqiXhdYfkOvq9z.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-02T12:45:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260728090622im_/https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/720x960/o5yqiXhdYfkOvq9z.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efe4a19f5c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2078479240308129792/vid/avc1/480x270/A9Kgm8e0Q5NPa_bY.mp4?tag=14": {
       "status": "done",
@@ -8302,7 +8302,7 @@
       "miss_count": 2
     },
     "20260427084020_twitter_com_Yily_cici_status_2048683652272533771.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -8312,7 +8312,7 @@
           "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T12:32:05",
+      "last_updated": "2026-08-02T12:45:06",
       "miss_count": 2
     },
     "20260427085927_twitter_com_Yily_cici_status_2048688463101444299.json": {
@@ -14919,7 +14919,7 @@
       "last_updated": "2026-08-02T11:34:29"
     },
     "20260728090622_twitter_com_Yily_cici_status_2082029887972622573.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -14930,7 +14930,7 @@
           "https://pbs.twimg.com/profile_images/2081919643401478144/GGFx_FXa_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:34:30"
+      "last_updated": "2026-08-02T12:45:10"
     },
     "20260728091246_twitter_com_Yily_cici_status_2082031499097063802.json": {
       "status": "done",
