@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048286316480409600"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048285699884077353",
+    "created_at": "2026-04-26T06:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048286325607153818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FI48ODyQHs",
+          "end": 31,
+          "expanded_url": "https://x.com/Yily_cici/status/2048286325607153818/photo/1",
+          "media_key": "3_2048286316480409600",
+          "start": 8,
+          "url": "https://t.co/FI48ODyQHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048286325607153818",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048286053652636060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "废话太多的后果 https://t.co/FI48ODyQHs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2048286316480409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGz5jXQbsAAC_T2.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2048286045624803328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGz5TmPbIAAxvXh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048286316480409600"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048285699884077353",
+        "created_at": "2026-04-26T06:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048286325607153818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FI48ODyQHs",
+              "end": 31,
+              "expanded_url": "https://x.com/Yily_cici/status/2048286325607153818/photo/1",
+              "media_key": "3_2048286316480409600",
+              "start": 8,
+              "url": "https://t.co/FI48ODyQHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048286325607153818",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048286053652636060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "废话太多的后果 https://t.co/FI48ODyQHs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048286045624803328"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048285699884077353",
+        "created_at": "2026-04-26T06:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048286053652636060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5osT9sIzd",
+              "end": 41,
+              "expanded_url": "https://x.com/Yily_cici/status/2048286053652636060/photo/1",
+              "media_key": "3_2048286045624803328",
+              "start": 18,
+              "url": "https://t.co/T5osT9sIzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048286053652636060",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048285699884077353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我关注卡没了 吓得我以为全被清了 https://t.co/T5osT9sIzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 96
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

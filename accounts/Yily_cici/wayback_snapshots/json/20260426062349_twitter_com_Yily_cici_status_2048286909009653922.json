@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048286909009653922",
+    "created_at": "2026-04-26T06:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048286909009653922"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048286909009653922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我什么也不想干，什么上学工作全是人类自己发明出来的，我本来可以像一个蘑菇一样就安静的呆着，什么也不干，保持沉默。现在我只是在回归自然而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048286909009653922",
+        "created_at": "2026-04-26T06:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048286909009653922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048286909009653922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么也不想干，什么上学工作全是人类自己发明出来的，我本来可以像一个蘑菇一样就安静的呆着，什么也不干，保持沉默。现在我只是在回归自然而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 97
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2070527243592642812",
+    "created_at": "2026-06-26T15:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070528259289399705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070528259289399705",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070527243592642812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吵死了吵死了 我真的想捅人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2070527228753100800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv9i1-aQAAm-CN.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2070527243592642812",
+        "created_at": "2026-06-26T15:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070528259289399705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070528259289399705",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070527243592642812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吵死了吵死了 我真的想捅人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070527228753100800"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2070527243592642812",
+        "created_at": "2026-06-26T15:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070527243592642812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4H67zHmR3c",
+              "end": 166,
+              "expanded_url": "https://x.com/Yily_cici/status/2070527243592642812/photo/1",
+              "media_key": "3_2070527228753100800",
+              "start": 143,
+              "url": "https://t.co/4H67zHmR3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070527243592642812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳资真他妈服啊 没人想听你个蠢货在这里夹声音撒娇什么：嗯～啊等奇怪的声音。没有人想听你喊姐姐喊哥哥。也没有人想听你从晚上六七点打语音厅打到十一点。刚搬过来已经说过十一点后别吵。我看你都没有要停的意思越讲越大声提醒你你给我来“才过了两分钟”安静听不懂吗 不是你一个人的宿舍 给人空间行不 https://t.co/4H67zHmR3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071759415913689423",
+    "created_at": "2026-06-30T01:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T02:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071760733545861585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1502159530326900736",
+          "start": 0,
+          "username": "CXKIKUNgiegie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071760733545861585",
+    "in_reply_to_user_id": "1502159530326900736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071759789118640626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CXKIKUNgiegie 我有吃甜食 前天还吃了个蛋糕 强迫自己吃了好多咽下去然后全一股吐出来了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071759415913689423",
+        "created_at": "2026-06-30T01:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071760733545861585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1502159530326900736",
+              "start": 0,
+              "username": "CXKIKUNgiegie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071760733545861585",
+        "in_reply_to_user_id": "1502159530326900736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071759789118640626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CXKIKUNgiegie 我有吃甜食 前天还吃了个蛋糕 强迫自己吃了好多咽下去然后全一股吐出来了.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502159530326900736",
+        "conversation_id": "2071759415913689423",
+        "created_at": "2026-06-30T00:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071759789118640626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071759789118640626",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071759415913689423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 搞点甜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T05:48:49.000Z",
+        "description": "ENFP，射手，交朋友，可以提问👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lsn123/tbh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lsn123/tbh",
+                "start": 0,
+                "url": "https://t.co/Vu4L7zmncF"
+              }
+            ]
+          }
+        },
+        "id": "1502159530326900736",
+        "location": "-15cm",
+        "name": "励志做颜值博主",
+        "pinned_tweet_id": "1839538744103469304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532407491018928131/acCKoLTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 233,
+          "like_count": 122,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/Vu4L7zmncF",
+        "username": "CXKIKUNgiegie",
+        "verified": false
+      }
+    ]
+  }
+}

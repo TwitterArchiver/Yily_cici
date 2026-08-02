@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079984201848463496",
+    "created_at": "2026-07-22T19:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080007420328427859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625820710542213124",
+          "start": 0,
+          "username": "zhngtng00714570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080007420328427859",
+    "in_reply_to_user_id": "1625820710542213124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080006671326163121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngtng00714570 所以我也只是想想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079984201848463496",
+        "created_at": "2026-07-22T19:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080007420328427859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625820710542213124",
+              "start": 0,
+              "username": "zhngtng00714570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080007420328427859",
+        "in_reply_to_user_id": "1625820710542213124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080006671326163121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngtng00714570 所以我也只是想想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625820710542213124",
+        "conversation_id": "2079984201848463496",
+        "created_at": "2026-07-22T19:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080006671326163121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080006671326163121",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079984201848463496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 我做不到。要是全删了谁来看我发神经。我还怎么精神攻击视奸我朋友圈之人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 98,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T11:34:16.000Z",
+        "description": "Speak CN & EN",
+        "id": "1625820710542213124",
+        "name": "jingly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079491507237601280/LzKfyL-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "zhngtng00714570",
+        "verified": false
+      }
+    ]
+  }
+}

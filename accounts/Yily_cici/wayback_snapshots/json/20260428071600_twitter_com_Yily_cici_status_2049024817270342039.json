@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049024808193794048"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048354642158141588",
+    "created_at": "2026-04-28T07:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049024817270342039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUFfJhUYrN",
+          "end": 30,
+          "expanded_url": "https://x.com/Yily_cici/status/2049024817270342039/photo/1",
+          "media_key": "3_2049024808193794048",
+          "start": 7,
+          "url": "https://t.co/EUFfJhUYrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049024817270342039",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048354642158141588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "滚你牛蛋的！ https://t.co/EUFfJhUYrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2049024808193794048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-ZNPRaoAAaod7.jpg",
+        "width": 827
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2048354633907904512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG03r9gbIAA7EuC.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049024808193794048"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048354642158141588",
+        "created_at": "2026-04-28T07:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049024817270342039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUFfJhUYrN",
+              "end": 30,
+              "expanded_url": "https://x.com/Yily_cici/status/2049024817270342039/photo/1",
+              "media_key": "3_2049024808193794048",
+              "start": 7,
+              "url": "https://t.co/EUFfJhUYrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049024817270342039",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048354642158141588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滚你牛蛋的！ https://t.co/EUFfJhUYrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048354633907904512"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048354642158141588",
+        "created_at": "2026-04-26T10:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048354642158141588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fa6al3aMtX",
+              "end": 27,
+              "expanded_url": "https://x.com/Yily_cici/status/2048354642158141588/photo/1",
+              "media_key": "3_2048354633907904512",
+              "start": 4,
+              "url": "https://t.co/fa6al3aMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048354642158141588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "….. https://t.co/fa6al3aMtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "location": "總之，謝謝。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 96,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 225
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

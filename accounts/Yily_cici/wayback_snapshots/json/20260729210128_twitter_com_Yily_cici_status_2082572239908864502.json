@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082572239908864502",
+    "created_at": "2026-07-29T21:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082572239908864502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082572239908864502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我长的好看我会天天发自拍 如果我身材好我会天天秀身材 如果我声音好听我就不打字发语音 如果我游戏打的好我会天天晒战绩 如果我有钱我会天天买买买 可是我一样都没占 只会天天发推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082572239908864502",
+        "created_at": "2026-07-29T21:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082572239908864502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082572239908864502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我长的好看我会天天发自拍 如果我身材好我会天天秀身材 如果我声音好听我就不打字发语音 如果我游戏打的好我会天天晒战绩 如果我有钱我会天天买买买 可是我一样都没占 只会天天发推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 30,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

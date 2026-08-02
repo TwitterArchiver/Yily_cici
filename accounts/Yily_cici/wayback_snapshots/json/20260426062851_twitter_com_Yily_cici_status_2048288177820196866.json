@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048242679830692112",
+    "created_at": "2026-04-26T06:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048288177820196866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014539074724597760",
+          "start": 0,
+          "username": "chuchu19436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048288177820196866",
+    "in_reply_to_user_id": "2014539074724597760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048242679830692112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuchu19436 好美味.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048242671144366080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzR23tbcAAGrgs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048242679830692112",
+        "created_at": "2026-04-26T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048288177820196866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014539074724597760",
+              "start": 0,
+              "username": "chuchu19436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048288177820196866",
+        "in_reply_to_user_id": "2014539074724597760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048242679830692112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuchu19436 好美味.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048242671144366080"
+          ]
+        },
+        "author_id": "2014539074724597760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048242679830692112",
+        "created_at": "2026-04-26T03:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048242679830692112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQGoNHERpX",
+              "end": 35,
+              "expanded_url": "https://x.com/chuchu19436/status/2048242679830692112/photo/1",
+              "media_key": "3_2048242671144366080",
+              "start": 12,
+              "url": "https://t.co/vQGoNHERpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048242679830692112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈做的，谁也不给吃🥰 https://t.co/vQGoNHERpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 100
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T03:22:09.000Z",
+        "description": "Switch 喜欢强制/xp太多\n只能夸夸我美妙的肉体 只能！",
+        "id": "2014539074724597760",
+        "location": "广州",
+        "name": "c",
+        "pinned_tweet_id": "2042904063197745497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025936201916796928/tgTjipfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 150,
+          "like_count": 846,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 173
+        },
+        "username": "chuchu19436",
+        "verified": false
+      }
+    ]
+  }
+}

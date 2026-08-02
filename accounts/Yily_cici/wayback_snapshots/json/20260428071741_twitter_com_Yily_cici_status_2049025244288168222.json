@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049025244288168222",
+    "created_at": "2026-04-28T07:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049025244288168222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1882369277178863616",
+          "start": 3,
+          "username": "luvuhateu0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049025244288168222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048770450587832736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luvuhateu0123: 再多喜欢我一点好不好 再多陪陪我好不好TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049025244288168222",
+        "created_at": "2026-04-28T07:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049025244288168222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1882369277178863616",
+              "start": 3,
+              "username": "luvuhateu0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049025244288168222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048770450587832736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luvuhateu0123: 再多喜欢我一点好不好 再多陪陪我好不好TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882369277178863616",
+        "conversation_id": "2048770450587832736",
+        "created_at": "2026-04-27T14:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048770450587832736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048770450587832736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2025,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再多喜欢我一点好不好 再多陪陪我好不好TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "location": "總之，謝謝。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 96,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 226
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T10:06:31.000Z",
+        "description": "是不是一直一个人就不会受伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hateuluvu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hateuluvu",
+                "start": 0,
+                "url": "https://t.co/87BNIOreDM"
+              }
+            ]
+          }
+        },
+        "id": "1882369277178863616",
+        "location": "隐士修所",
+        "name": "喵",
+        "pinned_tweet_id": "2047584913785073715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018406089533104129/3REpPK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 147,
+          "like_count": 498,
+          "listed_count": 12,
+          "media_count": 57,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/87BNIOreDM",
+        "username": "luvuhateu0123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2072127253098672395",
+    "created_at": "2026-07-01T01:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072127253098672395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505012566728261633",
+          "start": 3,
+          "username": "der4ngedstalker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072127253098672395",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 834
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071844517746241815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @der4ngedstalker: No sirvo para consolar a nadie, si me dices q quieres suicidarte capaz te diga q nos suicidemos juntos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2072127253098672395",
+        "created_at": "2026-07-01T01:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072127253098672395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505012566728261633",
+              "start": 3,
+              "username": "der4ngedstalker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072127253098672395",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 834
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071844517746241815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @der4ngedstalker: No sirvo para consolar a nadie, si me dices q quieres suicidarte capaz te diga q nos suicidemos juntos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505012566728261633",
+        "conversation_id": "2071844517746241815",
+        "created_at": "2026-06-30T06:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071844517746241815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071844517746241815",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 15068,
+          "like_count": 2143,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 834
+        },
+        "reply_settings": "everyone",
+        "text": "No sirvo para consolar a nadie, si me dices q quieres suicidarte capaz te diga q nos suicidemos juntos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T02:50:07.000Z",
+        "description": "#obstwt  #doltwt #suicidetwt          🇨🇱\n                   ♤    DNI: zoo, pedo, antis\n    ⛑️💉  #menherakei #ouji  †",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "obstwt"
+              },
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "doltwt"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "tag": "menherakei"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "ouji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/der4ngedstalker",
+                "end": 23,
+                "expanded_url": "https://ngl.link/der4ngedstalker",
+                "start": 0,
+                "url": "https://t.co/veXZNlLjMK"
+              }
+            ]
+          }
+        },
+        "id": "1505012566728261633",
+        "name": "𝐈𝐠𝐧𝐚 𓆪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069478043572228096/BxfE0ozD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 1021,
+          "like_count": 5132,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 8579
+        },
+        "url": "https://t.co/veXZNlLjMK",
+        "username": "der4ngedstalker",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048669239633158447",
+    "created_at": "2026-04-27T07:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048669239633158447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868579750098186240",
+          "start": 3,
+          "username": "xiaoshuTuT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048669239633158447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048519526497636606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoshuTuT1: 希望睡醒私信能多很多神秘数字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048669239633158447",
+        "created_at": "2026-04-27T07:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048669239633158447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868579750098186240",
+              "start": 3,
+              "username": "xiaoshuTuT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048669239633158447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048519526497636606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoshuTuT1: 希望睡醒私信能多很多神秘数字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868579750098186240",
+        "conversation_id": "2048519526497636606",
+        "created_at": "2026-04-26T21:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048519526497636606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048519526497636606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1586,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "希望睡醒私信能多很多神秘数字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 96,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 153
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T08:51:54.000Z",
+        "description": "…我就发点牢骚而已 我不是黄推不线下不聊骚 纯绿",
+        "id": "1868579750098186240",
+        "location": "纯绿",
+        "name": "虚伪",
+        "pinned_tweet_id": "2041478221787779537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041945311825031169/DkQyD5xH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 89,
+          "like_count": 383,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 329
+        },
+        "username": "xiaoshuTuT1",
+        "verified": false
+      }
+    ]
+  }
+}

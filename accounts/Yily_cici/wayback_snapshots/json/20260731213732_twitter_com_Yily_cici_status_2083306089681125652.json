@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083154683196309677",
+    "created_at": "2026-07-31T21:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083306089681125652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775668381510975488",
+          "start": 0,
+          "username": "Ailixiya_13"
+        },
+        {
+          "end": 21,
+          "id": "2082499093348143108",
+          "start": 13,
+          "username": "yn0c366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083306089681125652",
+    "in_reply_to_user_id": "1775668381510975488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083293212815573475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ailixiya_13 @yn0c366 ✋😇🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083154683196309677",
+        "created_at": "2026-07-31T21:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083306089681125652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775668381510975488",
+              "start": 0,
+              "username": "Ailixiya_13"
+            },
+            {
+              "end": 21,
+              "id": "2082499093348143108",
+              "start": 13,
+              "username": "yn0c366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083306089681125652",
+        "in_reply_to_user_id": "1775668381510975488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083293212815573475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailixiya_13 @yn0c366 ✋😇🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775668381510975488",
+        "conversation_id": "2083154683196309677",
+        "created_at": "2026-07-31T20:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083293212815573475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2082499093348143108",
+              "start": 0,
+              "username": "yn0c366"
+            },
+            {
+              "end": 19,
+              "id": "1389396065485398018",
+              "start": 9,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083293212815573475",
+        "in_reply_to_user_id": "2082499093348143108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191244608655869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn0c366 @Yily_cici 这些人机账号的怎么都屏蔽不掉啊，你屏蔽掉又冒出来一堆😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 30,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T23:35:33.000Z",
+        "description": "从现在开始我要讲一个很长的故事 你愿意相信我吗？",
+        "id": "1775668381510975488",
+        "location": "China，Guizhou，Liupanshui",
+        "name": "ailixiya.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082204274738733056/PwX6H26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 232,
+          "like_count": 4760,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "Ailixiya_13",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T16:14:32.000Z",
+        "description": "神。",
+        "id": "2082499093348143108",
+        "name": "陈诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082949499513913344/CZLBYjfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "yn0c366",
+        "verified": false
+      }
+    ]
+  }
+}

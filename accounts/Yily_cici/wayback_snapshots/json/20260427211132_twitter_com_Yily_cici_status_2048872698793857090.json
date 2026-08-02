@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048872698793857090",
+    "created_at": "2026-04-27T21:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048872698793857090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027740901691596800",
+          "start": 3,
+          "username": "Cakepqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048872698793857090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048762762357346692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cakepqh: 你关注我了再去回复别人就是出轨了，你知道吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048872698793857090",
+        "created_at": "2026-04-27T21:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048872698793857090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027740901691596800",
+              "start": 3,
+              "username": "Cakepqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048872698793857090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048762762357346692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cakepqh: 你关注我了再去回复别人就是出轨了，你知道吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027740901691596800",
+        "conversation_id": "2048762762357346692",
+        "created_at": "2026-04-27T13:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048762762357346692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048762762357346692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你关注我了再去回复别人就是出轨了，你知道吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 95,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 203
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T13:42:37.000Z",
+        "description": "爱发一些碎碎念，不看可以屏蔽。 私信看心情回，没有一定回你的必要，喜欢有礼貌的人。别给我发牛子，声控手控喜欢看美好的身体曲线。🚪520/1314，没有扩列的习惯，想认识可以入🚪",
+        "id": "2027740901691596800",
+        "location": "骂我替我挡灾 ",
+        "name": "Cake",
+        "pinned_tweet_id": "2045504700670447906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048728156572700672/OyWNyoAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 26,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1031
+        },
+        "username": "Cakepqh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048681972600582365",
+    "created_at": "2026-04-27T11:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048732753827680732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656083652449812481",
+          "start": 0,
+          "username": "Lyyrraaa14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048732753827680732",
+    "in_reply_to_user_id": "1656083652449812481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048681972600582365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyyrraaa14 我也好喜欢吃这种饭菜！之前懒的时候天天点这个🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048681965222875136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5hZJrb0AAjn10.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048681965797457920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5hZL0bQAA__4N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048681972600582365",
+        "created_at": "2026-04-27T11:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048732753827680732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656083652449812481",
+              "start": 0,
+              "username": "Lyyrraaa14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048732753827680732",
+        "in_reply_to_user_id": "1656083652449812481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048681972600582365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyyrraaa14 我也好喜欢吃这种饭菜！之前懒的时候天天点这个🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048681965222875136",
+            "3_2048681965797457920"
+          ]
+        },
+        "author_id": "1656083652449812481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048681972600582365",
+        "created_at": "2026-04-27T08:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048681972600582365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg0zBn0KJ6",
+              "end": 56,
+              "expanded_url": "https://x.com/Lyyrraaa14/status/2048681972600582365/photo/1",
+              "media_key": "3_2048681965222875136",
+              "start": 33,
+              "url": "https://t.co/fg0zBn0KJ6"
+            },
+            {
+              "display_url": "pic.x.com/fg0zBn0KJ6",
+              "end": 56,
+              "expanded_url": "https://x.com/Lyyrraaa14/status/2048681972600582365/photo/1",
+              "media_key": "3_2048681965797457920",
+              "start": 33,
+              "url": "https://t.co/fg0zBn0KJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048681972600582365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1242,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们根本不懂这到底多快手多好吃多营养！\n虽然卖相不怎么样了点…… https://t.co/fg0zBn0KJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 95,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 174
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-09T23:48:14.000Z",
+        "description": "照片自留地，随心情更新\n不打游戏不闲聊但喜欢互动\n互关看眼缘\n直女^^",
+        "id": "1656083652449812481",
+        "name": "Lr",
+        "pinned_tweet_id": "2048408040853106773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035111395914899456/xAcF7_nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 60,
+          "like_count": 618,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 196
+        },
+        "username": "Lyyrraaa14",
+        "verified": false
+      }
+    ]
+  }
+}

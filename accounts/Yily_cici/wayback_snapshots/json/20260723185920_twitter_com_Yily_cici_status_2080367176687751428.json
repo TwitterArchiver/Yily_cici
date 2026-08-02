@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080367176687751428",
+    "created_at": "2026-07-23T18:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080367176687751428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050118181248024576",
+          "start": 3,
+          "username": "Mintweeeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080367176687751428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080224086874366117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintweeeeeee: 每次我发一些缺爱的文案，就会有人过来跟我发情，我缺的不是这种爱，你们用性代替爱，用肉体填补空虚，或许永远也体会不到那种真正的、纯粹的爱了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080367176687751428",
+        "created_at": "2026-07-23T18:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080367176687751428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050118181248024576",
+              "start": 3,
+              "username": "Mintweeeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080367176687751428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080224086874366117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintweeeeeee: 每次我发一些缺爱的文案，就会有人过来跟我发情，我缺的不是这种爱，你们用性代替爱，用肉体填补空虚，或许永远也体会不到那种真正的、纯粹的爱了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050118181248024576",
+        "conversation_id": "2080224086874366117",
+        "created_at": "2026-07-23T09:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080224086874366117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080224086874366117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1899,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每次我发一些缺爱的文案，就会有人过来跟我发情，我缺的不是这种爱，你们用性代替爱，用肉体填补空虚，或许永远也体会不到那种真正的、纯粹的爱了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo\n私信请礼貌 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 98,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T07:40:49.000Z",
+        "description": "此账号为意淫和发疯账号。专心等待我的四爱男孩中…4i/iiiiiii/加q🚪13.14，加v🚪25",
+        "id": "2050118181248024576",
+        "name": "痛",
+        "pinned_tweet_id": "2079208676548804838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075105206921232385/Z1xqZ9FS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 4,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Mintweeeeeee",
+        "verified": false
+      }
+    ]
+  }
+}

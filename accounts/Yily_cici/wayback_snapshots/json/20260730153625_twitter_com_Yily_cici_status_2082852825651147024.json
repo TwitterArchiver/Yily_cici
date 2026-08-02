@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082746745927479761",
+    "created_at": "2026-07-30T15:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082852825651147024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048051418335207424",
+          "start": 0,
+          "username": "evanest627"
+        },
+        {
+          "end": 24,
+          "id": "1556646212635222016",
+          "start": 12,
+          "username": "Joyce123126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082852825651147024",
+    "in_reply_to_user_id": "2048051418335207424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082845721624260740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evanest627 @Joyce123126 手工本 很费时费力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082746745927479761",
+        "created_at": "2026-07-30T15:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082852825651147024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048051418335207424",
+              "start": 0,
+              "username": "evanest627"
+            },
+            {
+              "end": 24,
+              "id": "1556646212635222016",
+              "start": 12,
+              "username": "Joyce123126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082852825651147024",
+        "in_reply_to_user_id": "2048051418335207424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082845721624260740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evanest627 @Joyce123126 手工本 很费时费力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048051418335207424",
+        "conversation_id": "2082746745927479761",
+        "created_at": "2026-07-30T15:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082845721624260740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556646212635222016",
+              "start": 0,
+              "username": "Joyce123126"
+            },
+            {
+              "end": 23,
+              "id": "1389396065485398018",
+              "start": 13,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082845721624260740",
+        "in_reply_to_user_id": "1556646212635222016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082837898819256426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joyce123126 @Yily_cici 尼泊尔本是啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 30,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:48:34.000Z",
+        "description": "",
+        "id": "2048051418335207424",
+        "name": "布哥大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048052318915190784/evGgxjRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 4,
+          "like_count": 3610,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1117
+        },
+        "url": "",
+        "username": "evanest627",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T14:19:34.000Z",
+        "description": "JUST FOR FUN. 不约，纯口嗨，喜欢腹肌，喜欢大肉棒，喜欢善良，真诚，聪明，幽默的人",
+        "id": "1556646212635222016",
+        "name": "Eva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579091425828167680/UFIBJA8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 74,
+          "like_count": 37959,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 14872
+        },
+        "url": "",
+        "username": "Joyce123126",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2052023425800229137",
+    "created_at": "2026-05-06T16:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052059631342796955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949735161698103296",
+          "start": 0,
+          "username": "imsry4what"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052059631342796955",
+    "in_reply_to_user_id": "1949735161698103296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052023425800229137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imsry4what 我去 我对这两也很感兴趣.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2052023425800229137",
+        "created_at": "2026-05-06T16:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052059631342796955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949735161698103296",
+              "start": 0,
+              "username": "imsry4what"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052059631342796955",
+        "in_reply_to_user_id": "1949735161698103296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052023425800229137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imsry4what 我去 我对这两也很感兴趣.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949735161698103296",
+        "conversation_id": "2052023425800229137",
+        "created_at": "2026-05-06T13:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052023425800229137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052023425800229137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 948,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活里需要出现一个天蝎座或者天秤座"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 101,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 173
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T07:34:31.000Z",
+        "description": "某一天你走进了我的生命@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "1949735161698103296",
+        "location": "陪聊60/h别烦我喵",
+        "name": "留给你的我从未",
+        "pinned_tweet_id": "2031050111758090612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042995209798291456/iguqIjfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 84,
+          "like_count": 8195,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 2268
+        },
+        "username": "imsry4what",
+        "verified": false
+      }
+    ]
+  }
+}

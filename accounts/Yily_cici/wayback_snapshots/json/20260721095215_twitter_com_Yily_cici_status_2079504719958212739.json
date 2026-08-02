@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079504719958212739",
+    "created_at": "2026-07-21T09:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079504719958212739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867263070906826752",
+          "start": 3,
+          "username": "XLeng50621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079504719958212739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079255067044250090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XLeng50621: 你可以不自伤不痛恨世界吗？不乱花钱不暴饮暴食吗不产生诡异想法和行动吗？整理一下房间吗？你可以不去看那些恶心的视频，不去回忆那些事情吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079504719958212739",
+        "created_at": "2026-07-21T09:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079504719958212739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867263070906826752",
+              "start": 3,
+              "username": "XLeng50621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079504719958212739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079255067044250090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XLeng50621: 你可以不自伤不痛恨世界吗？不乱花钱不暴饮暴食吗不产生诡异想法和行动吗？整理一下房间吗？你可以不去看那些恶心的视频，不去回忆那些事情吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867263070906826752",
+        "conversation_id": "2079255067044250090",
+        "created_at": "2026-07-20T17:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079255067044250090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079255067044250090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2540,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你可以不自伤不痛恨世界吗？不乱花钱不暴饮暴食吗不产生诡异想法和行动吗？整理一下房间吗？你可以不去看那些恶心的视频，不去回忆那些事情吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "owo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 97,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T17:39:58.000Z",
+        "description": "M\n🚪66 加Q不过门就不闲聊\n有钱能使鬼推磨",
+        "id": "1867263070906826752",
+        "name": "小冷",
+        "pinned_tweet_id": "2079215217972813988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075907569168842752/xK7czybI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 44,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "XLeng50621",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049255723574481012",
+    "created_at": "2026-04-29T02:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049320297460039866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918511547388747776",
+          "start": 0,
+          "username": "wangyouyou0831"
+        },
+        {
+          "end": 30,
+          "id": "1539653075152957442",
+          "start": 16,
+          "username": "Jiuccci_felix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049320297460039866",
+    "in_reply_to_user_id": "1918511547388747776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049317206681374779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangyouyou0831 @Jiuccci_felix 🥲对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049255723574481012",
+        "created_at": "2026-04-29T02:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049320297460039866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918511547388747776",
+              "start": 0,
+              "username": "wangyouyou0831"
+            },
+            {
+              "end": 30,
+              "id": "1539653075152957442",
+              "start": 16,
+              "username": "Jiuccci_felix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049320297460039866",
+        "in_reply_to_user_id": "1918511547388747776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049317206681374779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangyouyou0831 @Jiuccci_felix 🥲对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918511547388747776",
+        "conversation_id": "2049255723574481012",
+        "created_at": "2026-04-29T02:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049317206681374779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            },
+            {
+              "end": 25,
+              "id": "1539653075152957442",
+              "start": 11,
+              "username": "Jiuccci_felix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049317206681374779",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049313343262113983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici @Jiuccci_felix 过敏性鼻炎真的好恶心！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 161
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T03:43:04.000Z",
+        "description": "× ω ×",
+        "id": "1918511547388747776",
+        "name": "王幽幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048997670052831232/GW-QsKMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "wangyouyou0831",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T16:54:51.000Z",
+        "description": "恨是愛的衍生物。",
+        "id": "1539653075152957442",
+        "location": "lix的猫窝",
+        "name": "雀斑猫",
+        "pinned_tweet_id": "1922785741865652566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970262727596896256/pt1FAAbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 79,
+          "like_count": 5438,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 1917
+        },
+        "username": "Jiuccci_felix",
+        "verified": false
+      }
+    ]
+  }
+}

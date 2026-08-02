@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2052055120654012895",
+    "created_at": "2026-05-06T16:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052063317406130361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052063317406130361",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052055120654012895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 气死我了啊 之前也说这样 说好一起玩的 结果她自己点护航去了 留我一个人等她 我还不知情 后面上线才发现😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2052055120654012895",
+        "created_at": "2026-05-06T16:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052063317406130361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052063317406130361",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052055120654012895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 气死我了啊 之前也说这样 说好一起玩的 结果她自己点护航去了 留我一个人等她 我还不知情 后面上线才发现😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "2052055120654012895",
+        "created_at": "2026-05-06T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052055120654012895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052055120654012895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和朋友说好了一个小时后打三角洲的 结果她过了两个小时都没理我我打了几个电话发了几条消息都不回我 我上号一看她一直在和别人玩…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 101,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 177
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "非常低质非常日常的一头猪\n无聊可以来私信找我玩….\n喜欢我请给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=GXfczkiy&from=%E5%86%B0%E5%98%B4%E5%94%87",
+                "start": 0,
+                "url": "https://t.co/5dh5BaiMY7"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "location": "自用vpn",
+        "name": "冰嘴唇.",
+        "pinned_tweet_id": "2048378588043637013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018942052453744640/_YsWMcxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10081,
+          "following_count": 410,
+          "like_count": 49362,
+          "listed_count": 12,
+          "media_count": 124,
+          "tweet_count": 6088
+        },
+        "url": "https://t.co/5dh5BaiMY7",
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

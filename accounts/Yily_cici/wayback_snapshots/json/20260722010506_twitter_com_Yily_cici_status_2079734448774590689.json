@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079734448774590689",
+    "created_at": "2026-07-22T01:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079734448774590689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079734448774590689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好讨厌接不住我情绪的人 我和你疯狂说我介意的点我难过的点 我像一个泼妇一样在说 你任由着这些话语落在你身上而无动于衷 像一拳打在棉花上 然后和我说一句让我别闹了只是一点小事 你知道错了 然后对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079734448774590689",
+        "created_at": "2026-07-22T01:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079734448774590689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079734448774590689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好讨厌接不住我情绪的人 我和你疯狂说我介意的点我难过的点 我像一个泼妇一样在说 你任由着这些话语落在你身上而无动于衷 像一拳打在棉花上 然后和我说一句让我别闹了只是一点小事 你知道错了 然后对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "owo",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 97,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

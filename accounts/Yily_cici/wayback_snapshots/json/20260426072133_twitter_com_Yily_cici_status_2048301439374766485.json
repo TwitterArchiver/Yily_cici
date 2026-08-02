@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048301439374766485",
+    "created_at": "2026-04-26T07:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048301439374766485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048301439374766485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048048063122673771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi8964: 我发现我越珍惜一段感情，得到的报应就越重。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048301439374766485",
+        "created_at": "2026-04-26T07:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048301439374766485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048301439374766485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048048063122673771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi8964: 我发现我越珍惜一段感情，得到的报应就越重。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2048048063122673771",
+        "created_at": "2026-04-25T14:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048048063122673771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048048063122673771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6425,
+          "like_count": 259,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我越珍惜一段感情，得到的报应就越重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 101
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "搬我帖子到墙内的人死全家。我没素质。\n俺不互fo不回私信! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "OnOxiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046810726686433280/YI_-e75p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4020,
+          "following_count": 285,
+          "like_count": 30843,
+          "listed_count": 12,
+          "media_count": 1014,
+          "tweet_count": 16923
+        },
+        "username": "OvOxiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

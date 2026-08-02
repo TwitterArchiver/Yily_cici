@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049040025611104702",
+    "created_at": "2026-04-28T08:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049040025611104702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1942995969043501056",
+          "start": 3,
+          "username": "XIAOMAIMI_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049040025611104702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049026652064399662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIAOMAIMI_miao: 我特别爱说“和我玩”“陪我玩”，像用最拙劣手法讨要关注的讨人厌的小孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049040025611104702",
+        "created_at": "2026-04-28T08:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049040025611104702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1942995969043501056",
+              "start": 3,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049040025611104702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049026652064399662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XIAOMAIMI_miao: 我特别爱说“和我玩”“陪我玩”，像用最拙劣手法讨要关注的讨人厌的小孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2049026652064399662",
+        "created_at": "2026-04-28T07:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049026652064399662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049026652064399662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我特别爱说“和我玩”“陪我玩”，像用最拙劣手法讨要关注的讨人厌的小孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 98,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 233
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2048721578410840103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 186,
+          "like_count": 14689,
+          "listed_count": 26,
+          "media_count": 79,
+          "tweet_count": 1280
+        },
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

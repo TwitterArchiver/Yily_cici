@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082147708618567717",
+    "created_at": "2026-07-28T17:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082158197473989006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2020810542873714688",
+          "start": 0,
+          "username": "MaicelC42969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082158197473989006",
+    "in_reply_to_user_id": "2020810542873714688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082156333013635451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaicelC42969 额没有 他估计有喜欢的人了（猜测 估计不是估计"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082147708618567717",
+        "created_at": "2026-07-28T17:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082158197473989006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2020810542873714688",
+              "start": 0,
+              "username": "MaicelC42969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158197473989006",
+        "in_reply_to_user_id": "2020810542873714688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082156333013635451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaicelC42969 额没有 他估计有喜欢的人了（猜测 估计不是估计"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020810542873714688",
+        "conversation_id": "2082147708618567717",
+        "created_at": "2026-07-28T17:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082156333013635451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082156333013635451",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082147708618567717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 主播主播那个你喜欢的人回你了吗！！！我靠好想看后续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 30,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T10:42:47.000Z",
+        "description": "",
+        "id": "2020810542873714688",
+        "name": "maicel clark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045842767851765761/0ON33yym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 144,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "MaicelC42969",
+        "verified": false
+      }
+    ]
+  }
+}

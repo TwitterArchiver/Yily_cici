@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049038094683509145",
+    "created_at": "2026-04-28T08:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049048054872056041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1931337738340732928",
+          "start": 0,
+          "username": "zaiyeee_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049048054872056041",
+    "in_reply_to_user_id": "1931337738340732928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049038094683509145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaiyeee_ 我也遇到过 感觉像开屏一样.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049038094683509145",
+        "created_at": "2026-04-28T08:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049048054872056041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1931337738340732928",
+              "start": 0,
+              "username": "zaiyeee_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049048054872056041",
+        "in_reply_to_user_id": "1931337738340732928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049038094683509145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaiyeee_ 我也遇到过 感觉像开屏一样.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931337738340732928",
+        "conversation_id": "2049038094683509145",
+        "created_at": "2026-04-28T08:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049038094683509145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049038094683509145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌一些在公共场合大声喧哗的人啊感觉像是父母双亡没人教过啥是礼貌一般 还自认为这是足够真实 虽然是好朋友但我也完全忍受不了啊啊啊啊啊我说你小点声呗好尴尬她说哇塞谁在意你啊 大姐姐别人白眼都快翻到天上了你想怎呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 98,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 242
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T13:09:49.000Z",
+        "description": "复杂多元的人类 不鉴鸡 除口令不回",
+        "id": "1931337738340732928",
+        "name": "Sylas",
+        "pinned_tweet_id": "1986837597499629604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995188757709156353/wRfxdmao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 168,
+          "like_count": 8634,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 235
+        },
+        "username": "zaiyeee_",
+        "verified": false
+      }
+    ]
+  }
+}

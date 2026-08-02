@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080714954215457218",
+    "created_at": "2026-07-24T18:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080714954215457218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1843735518401703937",
+          "start": 3,
+          "username": "momokoo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080714954215457218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080596323749998964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momokoo8964: 我不想做爱我只想靠着一个肩膀哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080714954215457218",
+        "created_at": "2026-07-24T18:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080714954215457218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1843735518401703937",
+              "start": 3,
+              "username": "momokoo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080714954215457218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080596323749998964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momokoo8964: 我不想做爱我只想靠着一个肩膀哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843735518401703937",
+        "conversation_id": "2080596323749998964",
+        "created_at": "2026-07-24T10:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080596323749998964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080596323749998964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不想做爱我只想靠着一个肩膀哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "对不起。",
+        "id": "1389396065485398018",
+        "location": "我只属于你。",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 27,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "只是一个普通人类女孩",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2078388915049013759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077346029083750400/Bda5bvbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 149,
+          "like_count": 4767,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

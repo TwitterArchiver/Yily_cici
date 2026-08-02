@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2081905696757686330",
+    "created_at": "2026-07-28T01:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081908384824181247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080802331289935872",
+          "start": 0,
+          "username": "Aycbnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081908384824181247",
+    "in_reply_to_user_id": "2080802331289935872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081908236312367126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aycbnb666 再给你一次组织语言的机会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2081905696757686330",
+        "created_at": "2026-07-28T01:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081908384824181247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080802331289935872",
+              "start": 0,
+              "username": "Aycbnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081908384824181247",
+        "in_reply_to_user_id": "2080802331289935872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081908236312367126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aycbnb666 再给你一次组织语言的机会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080802331289935872",
+        "conversation_id": "2081905696757686330",
+        "created_at": "2026-07-28T01:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081908236312367126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081908236312367126",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081905696757686330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 没人喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 31,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T23:50:06.000Z",
+        "description": "",
+        "id": "2080802331289935872",
+        "name": "Ay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081705120925184000/1PFF3u5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Aycbnb666",
+        "verified": false
+      }
+    ]
+  }
+}

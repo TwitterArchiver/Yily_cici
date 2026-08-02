@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082572833738395846",
+    "created_at": "2026-07-30T11:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082785726580867450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825360528866521088",
+          "start": 0,
+          "username": "yan_shen46377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082785726580867450",
+    "in_reply_to_user_id": "1825360528866521088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082763380771946578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_shen46377 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082572833738395846",
+        "created_at": "2026-07-30T11:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082785726580867450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825360528866521088",
+              "start": 0,
+              "username": "yan_shen46377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082785726580867450",
+        "in_reply_to_user_id": "1825360528866521088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082763380771946578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_shen46377 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825360528866521088",
+        "conversation_id": "2082572833738395846",
+        "created_at": "2026-07-30T09:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082763380771946578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082763380771946578",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082572833738395846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 在推特上看到正常人真的太幸福了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 30,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T02:36:22.000Z",
+        "description": "🍀only Arts\n💿don't follow me",
+        "id": "1825360528866521088",
+        "name": "🍏Applena",
+        "pinned_tweet_id": "2033951586251379184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071379410872410112/1ty4y2O__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 315,
+          "like_count": 5728,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "yan_shen46377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048694173319270541",
+    "created_at": "2026-04-27T12:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048741883934106070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853119011619487744",
+          "start": 0,
+          "username": "StarryLove_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048741883934106070",
+    "in_reply_to_user_id": "1853119011619487744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048694173319270541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryLove_1005 好萌呀好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048694158744064000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5se6FbkAApY9z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048694173319270541",
+        "created_at": "2026-04-27T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048741883934106070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853119011619487744",
+              "start": 0,
+              "username": "StarryLove_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741883934106070",
+        "in_reply_to_user_id": "1853119011619487744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048694173319270541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryLove_1005 好萌呀好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048694158744064000"
+          ]
+        },
+        "author_id": "1853119011619487744",
+        "conversation_id": "2048694173319270541",
+        "created_at": "2026-04-27T09:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048694173319270541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9JALRazyx",
+              "end": 27,
+              "expanded_url": "https://x.com/StarryLove_1005/status/2048694173319270541/photo/1",
+              "media_key": "3_2048694158744064000",
+              "start": 4,
+              "url": "https://t.co/D9JALRazyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048694173319270541",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ovo https://t.co/D9JALRazyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 95,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 181
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T16:56:31.000Z",
+        "description": "我爱得很透明@imsry4what //一只千纸鹤 落在我的肩膀上@chessiaya1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "imsry4what"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "chessiaya1"
+              }
+            ]
+          }
+        },
+        "id": "1853119011619487744",
+        "location": "不聊天不线下不接定制不接广没有🚪",
+        "name": "420",
+        "pinned_tweet_id": "2048402894987448359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043860260629426177/_nTVWFaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5609,
+          "following_count": 73,
+          "like_count": 6599,
+          "listed_count": 10,
+          "media_count": 99,
+          "tweet_count": 2244
+        },
+        "username": "StarryLove_1005",
+        "verified": false
+      }
+    ]
+  }
+}

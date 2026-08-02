@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2081557719853760916",
+    "created_at": "2026-07-27T08:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081656441971310841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080802331289935872",
+          "start": 0,
+          "username": "Aycbnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081656441971310841",
+    "in_reply_to_user_id": "2080802331289935872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081580358865432941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aycbnb666 你给我滚蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2081557719853760916",
+        "created_at": "2026-07-27T08:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081656441971310841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080802331289935872",
+              "start": 0,
+              "username": "Aycbnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081656441971310841",
+        "in_reply_to_user_id": "2080802331289935872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081580358865432941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aycbnb666 你给我滚蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080802331289935872",
+        "conversation_id": "2081557719853760916",
+        "created_at": "2026-07-27T03:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081580358865432941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081580358865432941",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081557719853760916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 那我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 30,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T23:50:06.000Z",
+        "description": "",
+        "id": "2080802331289935872",
+        "name": "Ay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081546634400542720/w0eWaALW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Aycbnb666",
+        "verified": false
+      }
+    ]
+  }
+}

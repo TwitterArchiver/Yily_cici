@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2081327456942977407",
+    "created_at": "2026-07-26T10:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081327456942977407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081327456942977407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下。我是你对象。每天宅在家。什么也不做。天天打游戏刷视频。你一回来就黏着你。然后你走进厨房发现我吃了一天的泡面。还不洗碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2081327456942977407",
+        "created_at": "2026-07-26T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081327456942977407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081327456942977407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下。我是你对象。每天宅在家。什么也不做。天天打游戏刷视频。你一回来就黏着你。然后你走进厨房发现我吃了一天的泡面。还不洗碗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "",
+        "id": "1389396065485398018",
+        "location": "距离您3.6km",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 27,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

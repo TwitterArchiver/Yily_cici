@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082024948873478554",
+    "created_at": "2026-07-28T09:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082029887972622573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027092181480341504",
+          "start": 0,
+          "username": "Elowenist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082029887972622573",
+    "in_reply_to_user_id": "2027092181480341504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082024948873478554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elowenist_ 你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15837,
+        "height": 960,
+        "media_key": "13_2082024920339607553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082024920339607553/img/papMsJiCVkUwpZ3x.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/320x426/oWhyXojLcsznVWPo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/480x640/_PYR6AnHf5qLzsvS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082024920339607553/vid/avc1/720x960/o5yqiXhdYfkOvq9z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082024920339607553/pl/k-iLjFCNhsXHwWyA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082024948873478554",
+        "created_at": "2026-07-28T09:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082029887972622573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027092181480341504",
+              "start": 0,
+              "username": "Elowenist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082029887972622573",
+        "in_reply_to_user_id": "2027092181480341504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082024948873478554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elowenist_ 你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082024920339607553"
+          ]
+        },
+        "author_id": "2027092181480341504",
+        "conversation_id": "2082024948873478554",
+        "created_at": "2026-07-28T08:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082024948873478554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mjFasyI7d",
+              "end": 50,
+              "expanded_url": "https://x.com/Elowenist_/status/2082024948873478554/video/1",
+              "media_key": "13_2082024920339607553",
+              "start": 27,
+              "url": "https://t.co/4mjFasyI7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082024948873478554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你想要什么 一个拥抱 一次低头 还是 只要我离开就好 https://t.co/4mjFasyI7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 29,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T18:43:45.000Z",
+        "description": "我珍惜你的方式错了吗",
+        "id": "2027092181480341504",
+        "name": "雨总会停的我的泪也总会尽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081919643401478144/GGFx_FXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Elowenist_",
+        "verified": false
+      }
+    ]
+  }
+}

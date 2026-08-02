@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048540345659728373",
+    "created_at": "2026-04-27T08:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048674019868909711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1725420710368260097",
+          "start": 0,
+          "username": "choiisanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048674019868909711",
+    "in_reply_to_user_id": "1725420710368260097",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048540345659728373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choiisanf ！cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27366,
+        "height": 1024,
+        "media_key": "13_2048540283336597504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048540283336597504/img/jFfZh_434CvvgXLv.jpg",
+        "public_metrics": {
+          "view_count": 64088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048540283336597504/vid/avc1/320x568/-V4oBVIlqZPW9r_U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048540283336597504/vid/avc1/480x852/nOs4UuGYiAHnuxXc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048540283336597504/vid/avc1/576x1024/Dee61qtwmrw4W71b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048540283336597504/pl/6TnwPR9qCWV-so1X.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048540345659728373",
+        "created_at": "2026-04-27T08:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048674019868909711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1725420710368260097",
+              "start": 0,
+              "username": "choiisanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048674019868909711",
+        "in_reply_to_user_id": "1725420710368260097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048540345659728373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choiisanf ！cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048540283336597504"
+          ]
+        },
+        "author_id": "1725420710368260097",
+        "conversation_id": "2048540345659728373",
+        "created_at": "2026-04-26T23:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048540345659728373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoOx1sHhdj",
+              "end": 23,
+              "expanded_url": "https://x.com/choiisanf/status/2048540345659728373/video/1",
+              "media_key": "13_2048540283336597504",
+              "start": 0,
+              "url": "https://t.co/WoOx1sHhdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048540345659728373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 154821,
+          "like_count": 1068,
+          "quote_count": 0,
+          "reply_count": 137,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WoOx1sHhdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 96,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 154
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T07:48:58.000Z",
+        "description": "need money",
+        "id": "1725420710368260097",
+        "name": "ayang 💫",
+        "pinned_tweet_id": "2048540345659728373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029393439897600004/9GaTdxzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8843,
+          "following_count": 5217,
+          "like_count": 57651,
+          "listed_count": 16,
+          "media_count": 1256,
+          "tweet_count": 69962
+        },
+        "username": "choiisanf",
+        "verified": true
+      }
+    ]
+  }
+}

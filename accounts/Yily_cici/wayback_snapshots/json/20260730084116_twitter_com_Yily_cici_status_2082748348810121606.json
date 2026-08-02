@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082574803706544517",
+    "created_at": "2026-07-30T08:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082748348810121606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054627551092568064",
+          "start": 0,
+          "username": "Scanovsky09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082748348810121606",
+    "in_reply_to_user_id": "2054627551092568064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082747042921881794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scanovsky09 哎..可是好难过呀。平常那么喜欢 怎么要说那么恶毒的话伤害对方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082574803706544517",
+        "created_at": "2026-07-30T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082748348810121606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054627551092568064",
+              "start": 0,
+              "username": "Scanovsky09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082748348810121606",
+        "in_reply_to_user_id": "2054627551092568064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082747042921881794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scanovsky09 哎..可是好难过呀。平常那么喜欢 怎么要说那么恶毒的话伤害对方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054627551092568064",
+        "conversation_id": "2082574803706544517",
+        "created_at": "2026-07-30T08:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082747042921881794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082747042921881794",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082574803706544517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 人在愤怒的时候丧失理智，只为了最大化伤害对方而战斗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 30,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T18:19:33.000Z",
+        "description": "人类关系挑拨者 | 互联网搅粪者 | 年度最佳歧视一切者",
+        "id": "2054627551092568064",
+        "name": "Jacob Chunks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054627625927356416/IO2aJDSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Scanovsky09",
+        "verified": false
+      }
+    ]
+  }
+}

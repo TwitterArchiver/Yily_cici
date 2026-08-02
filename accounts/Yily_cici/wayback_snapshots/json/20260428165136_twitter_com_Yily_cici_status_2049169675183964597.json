@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048837776699961344"
+      ],
+      "media_source_tweet_id": [
+        "2048837785654821203"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049169675183964597",
+    "created_at": "2026-04-28T16:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049169675183964597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "904709691405615104",
+          "start": 3,
+          "username": "beautyquotes0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SgCgUOwkl5",
+          "end": 44,
+          "expanded_url": "https://x.com/beautyquotes0/status/2048837785654821203/photo/1",
+          "media_key": "3_2048837776699961344",
+          "start": 21,
+          "url": "https://t.co/SgCgUOwkl5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049169675183964597",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048837785654821203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beautyquotes0: 🥺 https://t.co/SgCgUOwkl5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2048837776699961344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7vGkqaMAAQYWu.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048837776699961344"
+          ],
+          "media_source_tweet_id": [
+            "2048837785654821203"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049169675183964597",
+        "created_at": "2026-04-28T16:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169675183964597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "904709691405615104",
+              "start": 3,
+              "username": "beautyquotes0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgCgUOwkl5",
+              "end": 44,
+              "expanded_url": "https://x.com/beautyquotes0/status/2048837785654821203/photo/1",
+              "media_key": "3_2048837776699961344",
+              "start": 21,
+              "url": "https://t.co/SgCgUOwkl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049169675183964597",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048837785654821203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beautyquotes0: 🥺 https://t.co/SgCgUOwkl5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048837776699961344"
+          ]
+        },
+        "author_id": "904709691405615104",
+        "conversation_id": "2048837785654821203",
+        "created_at": "2026-04-27T18:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048837785654821203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgCgUOwkl5",
+              "end": 25,
+              "expanded_url": "https://x.com/beautyquotes0/status/2048837785654821203/photo/1",
+              "media_key": "3_2048837776699961344",
+              "start": 2,
+              "url": "https://t.co/SgCgUOwkl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048837785654821203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 26701,
+          "like_count": 1816,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/SgCgUOwkl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 154
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T14:16:13.000Z",
+        "description": "",
+        "id": "904709691405615104",
+        "location": "Los Angeles ",
+        "name": "cats 🐈",
+        "pinned_tweet_id": "2048788357434712095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036383813857898496/2NSm1u7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11055,
+          "following_count": 8372,
+          "like_count": 315,
+          "listed_count": 8,
+          "media_count": 2636,
+          "tweet_count": 3338
+        },
+        "username": "beautyquotes0",
+        "verified": true
+      }
+    ]
+  }
+}

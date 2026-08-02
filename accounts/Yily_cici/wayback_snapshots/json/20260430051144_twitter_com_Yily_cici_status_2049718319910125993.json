@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049468514012934564",
+    "created_at": "2026-04-30T05:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049718319910125993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049718319910125993",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049468514012934564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 网吧新客享25抵100"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049468498938605568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEsvcGWsAAqGpF.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049468514012934564",
+        "created_at": "2026-04-30T05:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049718319910125993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049718319910125993",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049468514012934564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 网吧新客享25抵100"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049468498938605568"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "conversation_id": "2049468514012934564",
+        "created_at": "2026-04-29T12:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049468514012934564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsMNpYPv8t",
+              "end": 29,
+              "expanded_url": "https://x.com/hate_0811/status/2049468514012934564/photo/1",
+              "media_key": "3_2049468498938605568",
+              "start": 6,
+              "url": "https://t.co/ZsMNpYPv8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049468514012934564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 980,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放假去哪玩 https://t.co/ZsMNpYPv8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 190
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048724780837150720/pNdCkBZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 249,
+          "like_count": 8645,
+          "listed_count": 5,
+          "media_count": 860,
+          "tweet_count": 7633
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

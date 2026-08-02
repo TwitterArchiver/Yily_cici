@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2068686137733030289",
+    "created_at": "2026-06-22T01:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068867018867302876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827665846128484352",
+          "start": 0,
+          "username": "Angerika_Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068867018867302876",
+    "in_reply_to_user_id": "1827665846128484352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068775779505238346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angerika_Von 侥幸😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2068686137733030289",
+        "created_at": "2026-06-22T01:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068867018867302876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827665846128484352",
+              "start": 0,
+              "username": "Angerika_Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068867018867302876",
+        "in_reply_to_user_id": "1827665846128484352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068775779505238346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angerika_Von 侥幸😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827665846128484352",
+        "conversation_id": "2068686137733030289",
+        "created_at": "2026-06-21T19:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068775779505238346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068775779505238346",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068686137733030289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 赢了一半已经超越很多人了！（指七连跪遗憾下班）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061105225965158400/0-UnbIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 99,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T11:14:38.000Z",
+        "description": "孑然一身，漠然余生\n自说自话，自我压抑\n简简单单看个涩涩..\n习惯到处嘀嘀咕咕...不推荐关注，容易被刷屏）",
+        "id": "1827665846128484352",
+        "location": "武汉",
+        "name": "秋枫落叶",
+        "pinned_tweet_id": "2068404279287906793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831570241576693760/OM8AG6T9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 87,
+          "like_count": 12375,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 7273
+        },
+        "url": "",
+        "username": "Angerika_Von",
+        "verified": false
+      }
+    ]
+  }
+}

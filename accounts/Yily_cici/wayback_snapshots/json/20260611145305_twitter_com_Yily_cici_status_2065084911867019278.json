@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2064853984075251884",
+    "created_at": "2026-06-11T14:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065084911867019278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584880688796663808",
+          "start": 0,
+          "username": "lngt650607231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065084911867019278",
+    "in_reply_to_user_id": "1584880688796663808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065073027214401571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngt650607231 😭我不敢啊 我纠结了好久.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2064853984075251884",
+        "created_at": "2026-06-11T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065084911867019278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584880688796663808",
+              "start": 0,
+              "username": "lngt650607231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065084911867019278",
+        "in_reply_to_user_id": "1584880688796663808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065073027214401571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngt650607231 😭我不敢啊 我纠结了好久.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584880688796663808",
+        "conversation_id": "2064853984075251884",
+        "created_at": "2026-06-11T14:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065073027214401571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065073027214401571",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064853984075251884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 蹲一下嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo\n互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061105225965158400/0-UnbIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 99,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 70
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T12:13:06.000Z",
+        "description": "",
+        "id": "1584880688796663808",
+        "name": "coach potato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584880866635182080/cDcC9y99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 41,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 70
+        },
+        "username": "lngt650607231",
+        "verified": false
+      }
+    ]
+  }
+}

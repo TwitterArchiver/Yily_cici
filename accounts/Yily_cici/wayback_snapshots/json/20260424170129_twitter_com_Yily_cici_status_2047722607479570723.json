@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2047703381754708229",
+    "created_at": "2026-04-24T17:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047722607479570723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962961051206709248",
+          "start": 0,
+          "username": "Lottolearn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047722607479570723",
+    "in_reply_to_user_id": "1962961051206709248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047703381754708229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lottolearn_ 明天见！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2047703381754708229",
+        "created_at": "2026-04-24T17:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047722607479570723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962961051206709248",
+              "start": 0,
+              "username": "Lottolearn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047722607479570723",
+        "in_reply_to_user_id": "1962961051206709248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047703381754708229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lottolearn_ 明天见！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962961051206709248",
+        "conversation_id": "2047703381754708229",
+        "created_at": "2026-04-24T15:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047703381754708229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047703381754708229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这会是我在推上的最后一个帖子吗\n晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 90,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T19:29:33.000Z",
+        "description": "🚪50",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "有门没人入.com",
+                "end": 23,
+                "expanded_url": "http://xn--gmqw8d2y4ax9et11d.com",
+                "start": 0,
+                "url": "https://t.co/fvOTbqRJ1g"
+              }
+            ]
+          }
+        },
+        "id": "1962961051206709248",
+        "location": "0.1KM",
+        "name": "Lottolearn",
+        "pinned_tweet_id": "2024728307208737030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029064930255859712/kVp2Nm6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 60,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/fvOTbqRJ1g",
+        "username": "Lottolearn_",
+        "verified": false
+      }
+    ]
+  }
+}

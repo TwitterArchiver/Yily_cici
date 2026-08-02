@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048830831763083609",
+    "created_at": "2026-04-28T07:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049028736893522107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798255824571355136",
+          "start": 0,
+          "username": "RourouYang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049028736893522107",
+    "in_reply_to_user_id": "1798255824571355136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048830831763083609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RourouYang_ 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2048830814230892544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7oxTcbUAA2vVv.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048830814226616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7oxTbaEAAELKD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048830831763083609",
+        "created_at": "2026-04-28T07:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049028736893522107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798255824571355136",
+              "start": 0,
+              "username": "RourouYang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049028736893522107",
+        "in_reply_to_user_id": "1798255824571355136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048830831763083609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RourouYang_ 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048830814230892544",
+            "3_2048830814226616320"
+          ]
+        },
+        "author_id": "1798255824571355136",
+        "conversation_id": "2048830831763083609",
+        "created_at": "2026-04-27T18:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048830831763083609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bReWJL9de5",
+              "end": 49,
+              "expanded_url": "https://x.com/RourouYang_/status/2048830831763083609/photo/1",
+              "media_key": "3_2048830814230892544",
+              "start": 26,
+              "url": "https://t.co/bReWJL9de5"
+            },
+            {
+              "display_url": "pic.x.com/bReWJL9de5",
+              "end": 49,
+              "expanded_url": "https://x.com/RourouYang_/status/2048830831763083609/photo/1",
+              "media_key": "3_2048830814226616320",
+              "start": 26,
+              "url": "https://t.co/bReWJL9de5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048830831763083609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1027,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人的化妆技术已经是一个换头的水平。\n这俩都是我。 https://t.co/bReWJL9de5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 97,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 231
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T07:29:42.000Z",
+        "description": "小羊想要 小羊得到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=w1d2otxc",
+                "start": 0,
+                "url": "https://t.co/eZfb2ZmgyH"
+              }
+            ]
+          }
+        },
+        "id": "1798255824571355136",
+        "location": "小羊的自用vpn💗➡️",
+        "name": "K᳐ilig᳐੭",
+        "pinned_tweet_id": "1805621105526550648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005666874911236096/gNT3cjoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10551,
+          "following_count": 300,
+          "like_count": 30532,
+          "listed_count": 16,
+          "media_count": 1023,
+          "tweet_count": 13310
+        },
+        "url": "https://t.co/eZfb2ZmgyH",
+        "username": "RourouYang_",
+        "verified": false
+      }
+    ]
+  }
+}

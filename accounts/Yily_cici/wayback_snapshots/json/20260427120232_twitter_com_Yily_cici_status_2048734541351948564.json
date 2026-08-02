@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048382432630730904",
+    "created_at": "2026-04-27T12:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048734541351948564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1969076990952275968",
+          "start": 0,
+          "username": "Iris1208dzqIris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048734541351948564",
+    "in_reply_to_user_id": "1969076990952275968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048382432630730904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris1208dzqIris 好香的饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048382425026404352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1Q9nfaIAAs0Wb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048382432630730904",
+        "created_at": "2026-04-27T12:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048734541351948564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1969076990952275968",
+              "start": 0,
+              "username": "Iris1208dzqIris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048734541351948564",
+        "in_reply_to_user_id": "1969076990952275968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048382432630730904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris1208dzqIris 好香的饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048382425026404352"
+          ]
+        },
+        "author_id": "1969076990952275968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048382432630730904",
+        "created_at": "2026-04-26T12:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048382432630730904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEZUil2tsC",
+              "end": 27,
+              "expanded_url": "https://x.com/Iris1208dzqIris/status/2048382432630730904/photo/1",
+              "media_key": "3_2048382425026404352",
+              "start": 4,
+              "url": "https://t.co/LEZUil2tsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048382432630730904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3866,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人食 https://t.co/LEZUil2tsC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 95,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 177
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜我女神是我自己｜ 水仙：@Sovereign_Iriss｜ 匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris39495",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris39495",
+                "start": 0,
+                "url": "https://t.co/tRCWqg0Xsl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "pinned_tweet_id": "2023461391441797486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038644540345884672/_FUcgm_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 26,
+          "like_count": 947,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/tRCWqg0Xsl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

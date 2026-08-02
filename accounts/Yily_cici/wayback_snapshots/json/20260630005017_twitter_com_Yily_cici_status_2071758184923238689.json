@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071758184923238689",
+    "created_at": "2026-06-30T00:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071758184923238689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071758184923238689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天凌晨打瓦三排了一局后有一个人有事离开了只剩下我和另一个人一起玩 我看那个人一直咳嗽我就说句：你一直咳去喝点水吧。然后他说不用啥啥的 我看咳得有点严重了 实在是人家也陪我玩没压力我 就寻思说给他转点钱让他买水喝吧 转了三十 他说：姐你这样我真有点爱上你了。   …？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071758184923238689",
+        "created_at": "2026-06-30T00:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071758184923238689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071758184923238689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天凌晨打瓦三排了一局后有一个人有事离开了只剩下我和另一个人一起玩 我看那个人一直咳嗽我就说句：你一直咳去喝点水吧。然后他说不用啥啥的 我看咳得有点严重了 实在是人家也陪我玩没压力我 就寻思说给他转点钱让他买水喝吧 转了三十 他说：姐你这样我真有点爱上你了。   …？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

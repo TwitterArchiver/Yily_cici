@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083509175401984095",
+    "created_at": "2026-08-01T11:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083519437857300700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027092181480341504",
+          "start": 0,
+          "username": "Elowenist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083519437857300700",
+    "in_reply_to_user_id": "2027092181480341504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083509175401984095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elowenist_ 即使是这样也没法否认当初爱得深过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083509175401984095",
+        "created_at": "2026-08-01T11:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083519437857300700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027092181480341504",
+              "start": 0,
+              "username": "Elowenist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083519437857300700",
+        "in_reply_to_user_id": "2027092181480341504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083509175401984095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elowenist_ 即使是这样也没法否认当初爱得深过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027092181480341504",
+        "conversation_id": "2083509175401984095",
+        "created_at": "2026-08-01T11:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083509175401984095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083509175401984095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得谈恋爱很恐怖吗…分手了就像没有认识过一样。然后在彼此的生活中消失 明明之前那么亲密无间。唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 29,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T18:43:45.000Z",
+        "description": "我珍惜你的方式错了吗",
+        "id": "2027092181480341504",
+        "name": "雨总会停的我的泪也总会尽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082107711001698304/NG-a-pTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 7,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Elowenist_",
+        "verified": false
+      }
+    ]
+  }
+}

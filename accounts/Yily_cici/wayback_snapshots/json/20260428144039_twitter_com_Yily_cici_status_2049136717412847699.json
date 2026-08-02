@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048906490225045518",
+    "created_at": "2026-04-28T14:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049136717412847699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049136717412847699",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048906490225045518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 我遇到好多人都这样 气死我了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048906490225045518",
+        "created_at": "2026-04-28T14:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049136717412847699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049136717412847699",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048906490225045518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 我遇到好多人都这样 气死我了.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963870046708772864",
+        "conversation_id": "2048906490225045518",
+        "created_at": "2026-04-27T23:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048906490225045518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048906490225045518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操是你抛弃了我吧。为什么要让别人说你是被抛弃了啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 99,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 166
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "此恨绵绵无绝期",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjx4ve"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "location": "私信骚扰我的你全家死光",
+        "name": "梦中的玉米五彩斑斓",
+        "pinned_tweet_id": "2031258655442743714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046046910600122368/UWWMZIjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 116,
+          "like_count": 3611,
+          "listed_count": 0,
+          "media_count": 817,
+          "tweet_count": 6389
+        },
+        "url": "https://t.co/2tAedjx4ve",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082028474760577344",
+    "created_at": "2026-07-28T12:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082078965750178054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827684856823980032",
+          "start": 0,
+          "username": "spz9ilN1Kp33053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082078965750178054",
+    "in_reply_to_user_id": "1827684856823980032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082078547833917612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spz9ilN1Kp33053 劳资爱干啥干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082028474760577344",
+        "created_at": "2026-07-28T12:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082078965750178054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827684856823980032",
+              "start": 0,
+              "username": "spz9ilN1Kp33053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082078965750178054",
+        "in_reply_to_user_id": "1827684856823980032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082078547833917612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spz9ilN1Kp33053 劳资爱干啥干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827684856823980032",
+        "conversation_id": "2082028474760577344",
+        "created_at": "2026-07-28T12:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082078547833917612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082078547833917612",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082078179158847796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 你完了。你不是人机你点啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo私信选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 30,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T12:30:29.000Z",
+        "description": "INFP/天蝎/09/重焦抑\n神，如果你存在的話請放過我吧，我真的好孤獨，我不知道我犯了什麼錯，但是我錯了。\n理理我吧，我真的好孤獨，我求求你了",
+        "id": "1827684856823980032",
+        "location": "Kumamoto-shi, Kumamoto",
+        "name": "Tsuki",
+        "pinned_tweet_id": "2080936626944152042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080934397755502592/EhLtXb4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 190,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "spz9ilN1Kp33053",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048093952126140916",
+    "created_at": "2026-04-26T15:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048421331595894897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        },
+        {
+          "end": 26,
+          "id": "2040315889803784192",
+          "start": 16,
+          "username": "m_mluckyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048421331595894897",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048285656171032967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt @m_mluckyy dl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048093952126140916",
+        "created_at": "2026-04-26T15:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048421331595894897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            },
+            {
+              "end": 26,
+              "id": "2040315889803784192",
+              "start": 16,
+              "username": "m_mluckyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048421331595894897",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048285656171032967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt @m_mluckyy dl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "2048093952126140916",
+        "created_at": "2026-04-26T06:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048285656171032967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040315889803784192",
+              "start": 0,
+              "username": "m_mluckyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048285656171032967",
+        "in_reply_to_user_id": "2040315889803784192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048093952126140916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m_mluckyy 五六年前主页推荐完全就是高质片集合 随便刷两下我能冲很久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 94,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 107
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 231,
+          "like_count": 18342,
+          "listed_count": 10,
+          "media_count": 1170,
+          "tweet_count": 7465
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T06:30:07.000Z",
+        "description": "想发什么发什么",
+        "id": "2040315889803784192",
+        "name": "我不同意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040316199624708096/Aj9mBmye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 270
+        },
+        "username": "m_mluckyy",
+        "verified": false
+      }
+    ]
+  }
+}

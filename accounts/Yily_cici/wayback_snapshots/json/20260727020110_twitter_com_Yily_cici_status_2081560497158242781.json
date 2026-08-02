@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2081560497158242781",
+    "created_at": "2026-07-27T02:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081560497158242781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081560497158242781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是爱哥哥啊 就是喜欢哥哥 完全没办法拒绝哥哥ㅠㅠ 爱上哥哥完全是意料之内情理之中啊 哥哥是世界上最完美的男人 哥哥阳光的笑容 宽大的手掌 飘逸的发丝 永远温柔的眼神…没有哥哥可怎么办 我每天就是止不住的一直想哥哥 吃饭想哥哥睡觉想哥哥有事没事都想哥哥 没有哥哥我怎么活！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2081560497158242781",
+        "created_at": "2026-07-27T02:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081560497158242781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081560497158242781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是爱哥哥啊 就是喜欢哥哥 完全没办法拒绝哥哥ㅠㅠ 爱上哥哥完全是意料之内情理之中啊 哥哥是世界上最完美的男人 哥哥阳光的笑容 宽大的手掌 飘逸的发丝 永远温柔的眼神…没有哥哥可怎么办 我每天就是止不住的一直想哥哥 吃饭想哥哥睡觉想哥哥有事没事都想哥哥 没有哥哥我怎么活！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 30,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

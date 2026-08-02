@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082896305647652969",
+    "created_at": "2026-07-31T07:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083086790727180622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068186702502580224",
+          "start": 0,
+          "username": "Yangyaneo9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083086790727180622",
+    "in_reply_to_user_id": "2068186702502580224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083014964785394109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangyaneo9a 嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082896305647652969",
+        "created_at": "2026-07-31T07:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083086790727180622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068186702502580224",
+              "start": 0,
+              "username": "Yangyaneo9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083086790727180622",
+        "in_reply_to_user_id": "2068186702502580224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083014964785394109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangyaneo9a 嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068186702502580224",
+        "conversation_id": "2082896305647652969",
+        "created_at": "2026-07-31T02:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083014964785394109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083014964785394109",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082896305647652969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 这人不要理他..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 30,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T04:20:09.000Z",
+        "description": "",
+        "id": "2068186702502580224",
+        "name": "YY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071261518327672832/1JqpwM0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 317,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "Yangyaneo9a",
+        "verified": false
+      }
+    ]
+  }
+}

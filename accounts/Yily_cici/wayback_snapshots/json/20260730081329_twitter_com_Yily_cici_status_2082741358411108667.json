@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082735870055211222",
+    "created_at": "2026-07-30T08:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082741358411108667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970087107290181632",
+          "start": 0,
+          "username": "A90527Piao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082741358411108667",
+    "in_reply_to_user_id": "1970087107290181632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082740535484399827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A90527Piao 额..给一个人发信息发现他好像有对象了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082735870055211222",
+        "created_at": "2026-07-30T08:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082741358411108667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970087107290181632",
+              "start": 0,
+              "username": "A90527Piao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082741358411108667",
+        "in_reply_to_user_id": "1970087107290181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082740535484399827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A90527Piao 额..给一个人发信息发现他好像有对象了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970087107290181632",
+        "conversation_id": "2082735870055211222",
+        "created_at": "2026-07-30T08:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082740535484399827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082740535484399827",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082735870055211222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 说出你的故事👽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 30,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T11:26:40.000Z",
+        "description": "我👽 我是 来自尊 贵 的处女 处女座 👽这里可以 观察 地球🌏人 👽👽👽",
+        "id": "1970087107290181632",
+        "name": "阿飘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032033158926127104/8RifdBLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "A90527Piao",
+        "verified": false
+      }
+    ]
+  }
+}

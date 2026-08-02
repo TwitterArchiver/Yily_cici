@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072275020014104576"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2072275029216399741",
+    "created_at": "2026-07-01T11:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072275029216399741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZMnnMIpvZ",
+          "end": 29,
+          "expanded_url": "https://x.com/Yily_cici/status/2072275029216399741/photo/1",
+          "media_key": "3_2072275020014104576",
+          "start": 6,
+          "url": "https://t.co/PZMnnMIpvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072275029216399741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "owo谢谢 https://t.co/PZMnnMIpvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2072275020014104576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIzJrzbMAAHqaD.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072275020014104576"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2072275029216399741",
+        "created_at": "2026-07-01T11:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072275029216399741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZMnnMIpvZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Yily_cici/status/2072275029216399741/photo/1",
+              "media_key": "3_2072275020014104576",
+              "start": 6,
+              "url": "https://t.co/PZMnnMIpvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072275029216399741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "owo谢谢 https://t.co/PZMnnMIpvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 98,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

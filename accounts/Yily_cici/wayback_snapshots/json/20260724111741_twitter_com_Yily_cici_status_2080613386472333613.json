@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080613378666741761"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080613386472333613",
+    "created_at": "2026-07-24T11:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080613386472333613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WtTvbcKuTE",
+          "end": 41,
+          "expanded_url": "https://x.com/Yily_cici/status/2080613386472333613/photo/1",
+          "media_key": "3_2080613378666741761",
+          "start": 18,
+          "url": "https://t.co/WtTvbcKuTE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080613386472333613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即使我是这样的人你也只会夸我好可爱 https://t.co/WtTvbcKuTE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2080613378666741761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_S2CZbQAE8MzY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080613378666741761"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080613386472333613",
+        "created_at": "2026-07-24T11:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080613386472333613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtTvbcKuTE",
+              "end": 41,
+              "expanded_url": "https://x.com/Yily_cici/status/2080613386472333613/photo/1",
+              "media_key": "3_2080613378666741761",
+              "start": 18,
+              "url": "https://t.co/WtTvbcKuTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080613386472333613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使我是这样的人你也只会夸我好可爱 https://t.co/WtTvbcKuTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "对不起。",
+        "id": "1389396065485398018",
+        "location": "我只属于你。",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 99,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

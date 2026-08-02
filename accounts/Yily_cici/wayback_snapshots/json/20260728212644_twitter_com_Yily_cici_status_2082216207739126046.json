@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082216207739126046",
+    "created_at": "2026-07-28T21:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082216207739126046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082216207739126046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家总结一下我是npc的一些证据:\n1.经常长时间发呆\n2.只会在别人先触发对话的情况下开口说话\n3.刷我的好感度可能会获赠小礼物\n4.建模潦草\n5.生命值很低\n6.重复做一件事情\n7.间接性数据丢失，忘记自己做了什么\n8.第2天会恢复原始状态，每日固定任务默认凌晨零点重置\n9.偶尔变成恶劣的居民随机辱骂玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082216207739126046",
+        "created_at": "2026-07-28T21:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082216207739126046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082216207739126046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家总结一下我是npc的一些证据:\n1.经常长时间发呆\n2.只会在别人先触发对话的情况下开口说话\n3.刷我的好感度可能会获赠小礼物\n4.建模潦草\n5.生命值很低\n6.重复做一件事情\n7.间接性数据丢失，忘记自己做了什么\n8.第2天会恢复原始状态，每日固定任务默认凌晨零点重置\n9.偶尔变成恶劣的居民随机辱骂玩家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 30,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

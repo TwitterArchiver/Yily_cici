@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049913942185791585",
+    "created_at": "2026-04-30T19:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049927297218888188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 0,
+          "username": "ovoTvTo3o7777u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049927297218888188",
+    "in_reply_to_user_id": "1829229897195368455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049913942185791585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovoTvTo3o7777u 拍得好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049913926046085120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLB2tYacAAqure.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049913926046101504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLB2tYasAA4pps.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049913926046060545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLB2tYaEAEo5xJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049913942185791585",
+        "created_at": "2026-04-30T19:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049927297218888188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "ovoTvTo3o7777u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049927297218888188",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049913942185791585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovoTvTo3o7777u 拍得好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049913926046085120",
+            "3_2049913926046101504",
+            "3_2049913926046060545"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2049913942185791585",
+        "created_at": "2026-04-30T18:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049913942185791585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEnKUv3iAm",
+              "end": 23,
+              "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2049913942185791585/photo/1",
+              "media_key": "3_2049913926046085120",
+              "start": 0,
+              "url": "https://t.co/cEnKUv3iAm"
+            },
+            {
+              "display_url": "pic.x.com/cEnKUv3iAm",
+              "end": 23,
+              "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2049913942185791585/photo/1",
+              "media_key": "3_2049913926046101504",
+              "start": 0,
+              "url": "https://t.co/cEnKUv3iAm"
+            },
+            {
+              "display_url": "pic.x.com/cEnKUv3iAm",
+              "end": 23,
+              "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2049913942185791585/photo/1",
+              "media_key": "3_2049913926046060545",
+              "start": 0,
+              "url": "https://t.co/cEnKUv3iAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049913942185791585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cEnKUv3iAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 100,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 197
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 67,
+          "like_count": 3142,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

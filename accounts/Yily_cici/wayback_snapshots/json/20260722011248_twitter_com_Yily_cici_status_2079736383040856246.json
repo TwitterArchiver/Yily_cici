@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079722722050166801",
+    "created_at": "2026-07-22T01:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079736383040856246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997334987549589504",
+          "start": 0,
+          "username": "gsc3363404194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079736383040856246",
+    "in_reply_to_user_id": "1997334987549589504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079731285585793493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsc3363404194 怪谢谢的 刚好落魄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079722722050166801",
+        "created_at": "2026-07-22T01:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079736383040856246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997334987549589504",
+              "start": 0,
+              "username": "gsc3363404194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079736383040856246",
+        "in_reply_to_user_id": "1997334987549589504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079731285585793493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsc3363404194 怪谢谢的 刚好落魄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997334987549589504",
+        "conversation_id": "2079722722050166801",
+        "created_at": "2026-07-22T00:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079731285585793493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079731285585793493",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079722722050166801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 想你了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 97,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T15:59:14.000Z",
+        "description": "祝你开心",
+        "id": "1997334987549589504",
+        "location": "天上",
+        "name": "云朵",
+        "pinned_tweet_id": "2056244397407371775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999625147247132674/avo2UUng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 3586,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1690
+        },
+        "url": "",
+        "username": "gsc3363404194",
+        "verified": false
+      }
+    ]
+  }
+}

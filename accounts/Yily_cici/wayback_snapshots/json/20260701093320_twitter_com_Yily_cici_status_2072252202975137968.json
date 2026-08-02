@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2072252202975137968",
+    "created_at": "2026-07-01T09:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072252202975137968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051990529483927552",
+          "start": 3,
+          "username": "4ever7274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072252202975137968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071996814275006857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ever7274: 诚招一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2072252202975137968",
+        "created_at": "2026-07-01T09:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072252202975137968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051990529483927552",
+              "start": 3,
+              "username": "4ever7274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072252202975137968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071996814275006857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ever7274: 诚招一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051990529483927552",
+        "conversation_id": "2071996814275006857",
+        "created_at": "2026-06-30T16:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071996814275006857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071996814275006857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 882,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "诚招一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 98,
+          "like_count": 1291,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T11:45:51.000Z",
+        "description": "🩷💛🩵\n双 switch 不聊骚没有🚪\n不约不线下 只加互关\n @lovel3tter7474",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "lovel3tter7474"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/die4u87718",
+                "end": 23,
+                "expanded_url": "https://ngl.link/die4u87718",
+                "start": 0,
+                "url": "https://t.co/obGCOEIuzs"
+              }
+            ]
+          }
+        },
+        "id": "2051990529483927552",
+        "name": "die4u",
+        "pinned_tweet_id": "2068291018815152149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051992237626753024/epSULDDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 202,
+          "like_count": 2127,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/obGCOEIuzs",
+        "username": "4ever7274",
+        "verified": false
+      }
+    ]
+  }
+}

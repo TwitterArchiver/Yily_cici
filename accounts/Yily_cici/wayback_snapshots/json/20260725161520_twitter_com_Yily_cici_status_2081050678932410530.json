@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2081050678932410530",
+    "created_at": "2026-07-25T16:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081050678932410530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071002497611681793",
+          "start": 3,
+          "username": "nyanemia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081050678932410530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080676425460293776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyanemia: i lied i am actually jealous, i hope anyone that flirts with you gets hit by 10 cars"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2081050678932410530",
+        "created_at": "2026-07-25T16:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081050678932410530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071002497611681793",
+              "start": 3,
+              "username": "nyanemia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081050678932410530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080676425460293776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyanemia: i lied i am actually jealous, i hope anyone that flirts with you gets hit by 10 cars"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071002497611681793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2080676425460293776",
+        "created_at": "2026-07-24T15:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080676425460293776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080676425460293776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3069,
+          "impression_count": 971689,
+          "like_count": 45287,
+          "quote_count": 578,
+          "reply_count": 140,
+          "retweet_count": 9171
+        },
+        "reply_settings": "everyone",
+        "text": "i lied i am actually jealous, i hope anyone that flirts with you gets hit by 10 cars"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "",
+        "id": "1389396065485398018",
+        "location": "距离您3.6km",
+        "name": "窒息的生活。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 27,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T23:10:31.000Z",
+        "description": "^.^ risk taker, road runner",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/nyanfied",
+                "end": 23,
+                "expanded_url": "https://throne.com/nyanfied",
+                "start": 0,
+                "url": "https://t.co/DXqF3Nb20C"
+              }
+            ]
+          }
+        },
+        "id": "2071002497611681793",
+        "location": "make my day ! ♡ →",
+        "name": "yuki",
+        "pinned_tweet_id": "2080676425460293776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078126457281269761/w3316L8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 17,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/DXqF3Nb20C",
+        "username": "nyanemia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2070741508547072418",
+    "created_at": "2026-06-27T05:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070741508547072418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049041521656389632",
+          "start": 3,
+          "username": "Lumixicals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070741508547072418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070228763833688414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lumixicals: I should have killed myself the day i was born"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2070741508547072418",
+        "created_at": "2026-06-27T05:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741508547072418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049041521656389632",
+              "start": 3,
+              "username": "Lumixicals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741508547072418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070228763833688414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lumixicals: I should have killed myself the day i was born"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049041521656389632",
+        "conversation_id": "2070228763833688414",
+        "created_at": "2026-06-25T19:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070228763833688414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070228763833688414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11175,
+          "like_count": 1092,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "I should have killed myself the day i was born"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T08:24:33.000Z",
+        "description": "what the hell\nwont fb -16 or no age visible",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lumilovesickness.straw.page",
+                "end": 23,
+                "expanded_url": "https://lumilovesickness.straw.page",
+                "start": 0,
+                "url": "https://t.co/uxOvu9QehM"
+              }
+            ]
+          }
+        },
+        "id": "2049041521656389632",
+        "location": "21  edrtwt",
+        "name": "Lumi ‎꩜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049042325104640000/oiCh5x1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 274,
+          "like_count": 363,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/uxOvu9QehM",
+        "username": "Lumixicals",
+        "verified": false
+      }
+    ]
+  }
+}

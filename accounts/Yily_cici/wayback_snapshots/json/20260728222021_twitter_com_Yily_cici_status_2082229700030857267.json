@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082226221669318687",
+    "created_at": "2026-07-28T22:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082229700030857267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775668381510975488",
+          "start": 0,
+          "username": "Ailixiya_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082229700030857267",
+    "in_reply_to_user_id": "1775668381510975488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082228282532208642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ailixiya_13 唉😭🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082226221669318687",
+        "created_at": "2026-07-28T22:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082229700030857267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775668381510975488",
+              "start": 0,
+              "username": "Ailixiya_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082229700030857267",
+        "in_reply_to_user_id": "1775668381510975488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082228282532208642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailixiya_13 唉😭🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775668381510975488",
+        "conversation_id": "2082226221669318687",
+        "created_at": "2026-07-28T22:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082228282532208642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082228282532208642",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082226221669318687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 有爹生没妈养的东西，也只配来推上骂别人找存在感了，现实中唯唯诺诺，网络上重拳出击，只会攻击别人来获得快感，明明是你因为被骚扰才挂了收钱这个东西，还骂别人乱圈钱，都是一个愿打一个愿挨的，不想付可以不付，一看就是穷逼一个，52块钱都舍不得出，对吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 30,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T23:35:33.000Z",
+        "description": "从现在开始我要讲一个很长的故事 你愿意相信我吗？",
+        "id": "1775668381510975488",
+        "location": "China，Guizhou，Liupanshui",
+        "name": "ailixiya.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082204274738733056/PwX6H26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 230,
+          "like_count": 4644,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "Ailixiya_13",
+        "verified": false
+      }
+    ]
+  }
+}

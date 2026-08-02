@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2081831328887296342",
+    "created_at": "2026-07-28T01:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081910636133716198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045065829805617152",
+          "start": 0,
+          "username": "wander1928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081910636133716198",
+    "in_reply_to_user_id": "2045065829805617152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081907959471194429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wander1928 宝宝我爱你呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2081831328887296342",
+        "created_at": "2026-07-28T01:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081910636133716198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045065829805617152",
+              "start": 0,
+              "username": "wander1928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081910636133716198",
+        "in_reply_to_user_id": "2045065829805617152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081907959471194429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wander1928 宝宝我爱你呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045065829805617152",
+        "conversation_id": "2081831328887296342",
+        "created_at": "2026-07-28T01:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081907959471194429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081907959471194429",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081831328887296342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 你不能说这些啊😭怎么能这么打击我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 29,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T09:05:07.000Z",
+        "description": "暂时还在努力往前走中\n加拿大留子，尽力活着",
+        "id": "2045065829805617152",
+        "location": "Toronto, Ontario",
+        "name": "wander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047985235925880832/h0nNAS3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "wander1928",
+        "verified": false
+      }
+    ]
+  }
+}

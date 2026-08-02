@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048391892090642805",
+    "created_at": "2026-04-27T00:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048561619752595799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009907458530258945",
+          "start": 0,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048561619752595799",
+    "in_reply_to_user_id": "2009907458530258945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048391892090642805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cOniqGBygQ16927 上课呢 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2048391884947767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1ZkQcawAA5YnI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048391892090642805",
+        "created_at": "2026-04-27T00:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048561619752595799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009907458530258945",
+              "start": 0,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048561619752595799",
+        "in_reply_to_user_id": "2009907458530258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048391892090642805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOniqGBygQ16927 上课呢 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048391884947767296"
+          ]
+        },
+        "author_id": "2009907458530258945",
+        "conversation_id": "2048391892090642805",
+        "created_at": "2026-04-26T13:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048391892090642805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPv64FzQvz",
+              "end": 25,
+              "expanded_url": "https://x.com/cOniqGBygQ16927/status/2048391892090642805/photo/1",
+              "media_key": "3_2048391884947767296",
+              "start": 2,
+              "url": "https://t.co/EPv64FzQvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048391892090642805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5285,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🌚 https://t.co/EPv64FzQvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 94,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 114
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "谁想和我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2045381479245492711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026180809237962752/SWENG479_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 18,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 345
+        },
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

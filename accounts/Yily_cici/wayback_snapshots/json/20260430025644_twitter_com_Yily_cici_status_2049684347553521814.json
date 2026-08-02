@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049546924974391763",
+    "created_at": "2026-04-30T02:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049684347553521814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657643199773679618",
+          "start": 0,
+          "username": "whencouldigeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049684347553521814",
+    "in_reply_to_user_id": "1657643199773679618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049683858300272974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whencouldigeti 你知道那种成品号趁我不在和别人搞上后那人还公开挑衅发语音给我的感觉吗。。气死我了那一次后直接断掉所有联系了。后面他还回来找过我几次被我拉黑了。😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049546924974391763",
+        "created_at": "2026-04-30T02:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049684347553521814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657643199773679618",
+              "start": 0,
+              "username": "whencouldigeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049684347553521814",
+        "in_reply_to_user_id": "1657643199773679618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049683858300272974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whencouldigeti 你知道那种成品号趁我不在和别人搞上后那人还公开挑衅发语音给我的感觉吗。。气死我了那一次后直接断掉所有联系了。后面他还回来找过我几次被我拉黑了。😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657643199773679618",
+        "conversation_id": "2049546924974391763",
+        "created_at": "2026-04-30T02:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049683858300272974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049683858300272974",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049683495145058488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 什么？！？！！我操我只能接受我把对方甩了不能接受我被对方甩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 100,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 189
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T07:05:23.000Z",
+        "description": "有对象 不聊骚不约炮没有🚪不加人 此号仅做分享 私信挑着回",
+        "id": "1657643199773679618",
+        "location": "hell",
+        "name": "早就在下水道生活了一百年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944423519879872512/UH6bTsaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9209,
+          "following_count": 101,
+          "like_count": 10157,
+          "listed_count": 22,
+          "media_count": 201,
+          "tweet_count": 9018
+        },
+        "username": "whencouldigeti",
+        "verified": false
+      }
+    ]
+  }
+}

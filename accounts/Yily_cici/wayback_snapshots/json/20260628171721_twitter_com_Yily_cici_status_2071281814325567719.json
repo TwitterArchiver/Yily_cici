@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071281814325567719",
+    "created_at": "2026-06-28T17:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071281814325567719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030303205851086848",
+          "start": 3,
+          "username": "niccwsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071281814325567719",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070829988090151072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niccwsz: eu sou tão preguiçoso que até pra me matar eu procrastino"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071281814325567719",
+        "created_at": "2026-06-28T17:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071281814325567719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030303205851086848",
+              "start": 3,
+              "username": "niccwsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071281814325567719",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070829988090151072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niccwsz: eu sou tão preguiçoso que até pra me matar eu procrastino"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030303205851086848",
+        "conversation_id": "2070829988090151072",
+        "created_at": "2026-06-27T11:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829988090151072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070829988090151072",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 156268,
+          "like_count": 14057,
+          "quote_count": 69,
+          "reply_count": 22,
+          "retweet_count": 4756
+        },
+        "reply_settings": "everyone",
+        "text": "eu sou tão preguiçoso que até pra me matar eu procrastino"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:25:56.000Z",
+        "description": "oi aqui eh a mae dele ele se matou",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@deftoneszj",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@deftoneszj",
+                "start": 0,
+                "url": "https://t.co/gKxQ66UMEb"
+              }
+            ]
+          }
+        },
+        "id": "2030303205851086848",
+        "location": "subtwt",
+        "name": "nicolas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071281322929131520/N1QI5htb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 2249,
+          "like_count": 11299,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 7294
+        },
+        "url": "https://t.co/gKxQ66UMEb",
+        "username": "niccwsz",
+        "verified": false
+      }
+    ]
+  }
+}

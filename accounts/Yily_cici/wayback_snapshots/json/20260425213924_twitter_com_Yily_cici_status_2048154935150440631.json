@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048154927864967168"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048154935150440631",
+    "created_at": "2026-04-25T21:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048154935150440631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40VaTbwded",
+          "end": 28,
+          "expanded_url": "https://x.com/Yily_cici/status/2048154935150440631/photo/1",
+          "media_key": "3_2048154927864967168",
+          "start": 5,
+          "url": "https://t.co/40VaTbwded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048154935150440631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫姐姐！ https://t.co/40VaTbwded"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2048154927864967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyCDihbcAALAqR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048154927864967168"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048154935150440631",
+        "created_at": "2026-04-25T21:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048154935150440631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40VaTbwded",
+              "end": 28,
+              "expanded_url": "https://x.com/Yily_cici/status/2048154935150440631/photo/1",
+              "media_key": "3_2048154927864967168",
+              "start": 5,
+              "url": "https://t.co/40VaTbwded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048154935150440631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫姐姐！ https://t.co/40VaTbwded"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 92,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 91
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2067947542583865392",
+    "created_at": "2026-06-20T00:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068127644835831896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1740631002119303168",
+          "start": 0,
+          "username": "xiyun183535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068127644835831896",
+    "in_reply_to_user_id": "1740631002119303168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068033224773882213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyun183535 乔碧萝比她好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2067947542583865392",
+        "created_at": "2026-06-20T00:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068127644835831896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1740631002119303168",
+              "start": 0,
+              "username": "xiyun183535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068127644835831896",
+        "in_reply_to_user_id": "1740631002119303168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033224773882213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyun183535 乔碧萝比她好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740631002119303168",
+        "conversation_id": "2067947542583865392",
+        "created_at": "2026-06-19T18:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068033224773882213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068033224773882213",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067947542583865392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 尼玛，乔碧萝来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "对不起。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061105225965158400/0-UnbIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 98,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T07:09:39.000Z",
+        "description": "心理已经很变态了，身体一定要健康呀。",
+        "id": "1740631002119303168",
+        "name": "西瓜老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740631146256650240/MW3jsnzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "xiyun183535",
+        "verified": false
+      }
+    ]
+  }
+}

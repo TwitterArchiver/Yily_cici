@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048570820562419980",
+    "created_at": "2026-04-27T01:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048571046476038432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048571046476038432",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048570820562419980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐这是考古视频 几年前的突然翻到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3367,
+        "height": 852,
+        "media_key": "13_2048570801428049920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048570801428049920/img/OP4pVrfV17jSnis4.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048570801428049920/vid/avc1/320x504/yE-P0ZLNJZvhl1ji.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048570801428049920/vid/avc1/480x756/T1ebWqAjXr5jFCZP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048570801428049920/vid/avc1/540x852/LPfEhGB841frbHu_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048570801428049920/pl/x11BQfgaqdDi3FRR.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048570820562419980",
+        "created_at": "2026-04-27T01:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048571046476038432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048571046476038432",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048570820562419980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐这是考古视频 几年前的突然翻到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048570801428049920"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048570820562419980",
+        "created_at": "2026-04-27T01:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048570820562419980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 2,
+              "start": 0,
+              "tag": "足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBizqynppY",
+              "end": 26,
+              "expanded_url": "https://x.com/Yily_cici/status/2048570820562419980/video/1",
+              "media_key": "13_2048570801428049920",
+              "start": 3,
+              "url": "https://t.co/hBizqynppY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048570820562419980",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#足 https://t.co/hBizqynppY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 95,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 129
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082896303064068096"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082896305647652969",
+    "created_at": "2026-07-30T18:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082896305647652969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dIBHTPD3xu",
+          "end": 27,
+          "expanded_url": "https://x.com/Yily_cici/status/2082896305647652969/photo/1",
+          "media_key": "3_2082896303064068096",
+          "start": 4,
+          "url": "https://t.co/dIBHTPD3xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082896305647652969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到。 https://t.co/dIBHTPD3xu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2082896303064068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfvJugbsAAyE78.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082896303064068096"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082896305647652969",
+        "created_at": "2026-07-30T18:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082896305647652969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIBHTPD3xu",
+              "end": 27,
+              "expanded_url": "https://x.com/Yily_cici/status/2082896305647652969/photo/1",
+              "media_key": "3_2082896303064068096",
+              "start": 4,
+              "url": "https://t.co/dIBHTPD3xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082896305647652969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到。 https://t.co/dIBHTPD3xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 30,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056176719120535552"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056176732563255705",
+    "created_at": "2026-05-18T00:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056176732563255705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibB2AUoc9F",
+          "end": 60,
+          "expanded_url": "https://x.com/Yily_cici/status/2056176732563255705/photo/1",
+          "media_key": "3_2056176719120535552",
+          "start": 37,
+          "url": "https://t.co/ibB2AUoc9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056176732563255705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看得气死我了 希望抖音不要出现我的未打码账号🤦（虽然目前不会火不会被发现 https://t.co/ibB2AUoc9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2056176719120535552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkB1PqbkAApEfz.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056176719120535552"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056176732563255705",
+        "created_at": "2026-05-18T00:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056176732563255705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibB2AUoc9F",
+              "end": 60,
+              "expanded_url": "https://x.com/Yily_cici/status/2056176732563255705/photo/1",
+              "media_key": "3_2056176719120535552",
+              "start": 37,
+              "url": "https://t.co/ibB2AUoc9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056176732563255705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得气死我了 希望抖音不要出现我的未打码账号🤦（虽然目前不会火不会被发现 https://t.co/ibB2AUoc9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 97,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 74
+        },
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

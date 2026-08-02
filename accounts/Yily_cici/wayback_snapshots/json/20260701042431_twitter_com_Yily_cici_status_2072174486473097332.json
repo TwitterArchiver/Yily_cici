@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2072174486473097332",
+    "created_at": "2026-07-01T04:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072174486473097332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664852354926276608",
+          "start": 3,
+          "username": "na4gaorun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072174486473097332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071878001789370385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @na4gaorun: ODの胃洗浄が怖くてできないし\n飛び降りは痛みが怖くて勇気でない\n草吊るのはしっぱいが怖い\nけっきょくどれも勇気がでなくてただ毎日生きてるだけの人間"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2072174486473097332",
+        "created_at": "2026-07-01T04:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072174486473097332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664852354926276608",
+              "start": 3,
+              "username": "na4gaorun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072174486473097332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071878001789370385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @na4gaorun: ODの胃洗浄が怖くてできないし\n飛び降りは痛みが怖くて勇気でない\n草吊るのはしっぱいが怖い\nけっきょくどれも勇気がでなくてただ毎日生きてるだけの人間"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664852354926276608",
+        "conversation_id": "2071878001789370385",
+        "created_at": "2026-06-30T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071878001789370385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071878001789370385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 69968,
+          "like_count": 1548,
+          "quote_count": 38,
+          "reply_count": 11,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "ODの胃洗浄が怖くてできないし\n飛び降りは痛みが怖くて勇気でない\n草吊るのはしっぱいが怖い\nけっきょくどれも勇気がでなくてただ毎日生きてるだけの人間"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:32:05.000Z",
+        "description": "無職→B型作業所 美緒48歳確定ルート行き 生きる希望ゼロ",
+        "id": "1664852354926276608",
+        "location": "安楽死頼む",
+        "name": "なし💥💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062150229714223104/9IcUiVVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9251,
+          "following_count": 211,
+          "like_count": 3370,
+          "listed_count": 48,
+          "media_count": 307,
+          "tweet_count": 4878
+        },
+        "url": "",
+        "username": "na4gaorun",
+        "verified": false
+      }
+    ]
+  }
+}

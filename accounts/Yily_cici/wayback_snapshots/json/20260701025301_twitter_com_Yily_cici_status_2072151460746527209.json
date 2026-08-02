@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2072151460746527209",
+    "created_at": "2026-07-01T02:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T03:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072151460746527209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1386296545289531398",
+          "start": 3,
+          "username": "mjtsTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072151460746527209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071959312663203899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mjtsTT: 真的很念旧，舍不得删聊天记录虽然已经和对方断联了，有时候再看回去就发现原来他还会说这样逗我哄我的话，那时候的我收到这样的讯息是很开心幸福的吧，但现在看着聊天记录只剩叹气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2072151460746527209",
+        "created_at": "2026-07-01T02:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072151460746527209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1386296545289531398",
+              "start": 3,
+              "username": "mjtsTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072151460746527209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071959312663203899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mjtsTT: 真的很念旧，舍不得删聊天记录虽然已经和对方断联了，有时候再看回去就发现原来他还会说这样逗我哄我的话，那时候的我收到这样的讯息是很开心幸福的吧，但现在看着聊天记录只剩叹气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386296545289531398",
+        "conversation_id": "2071959312663203899",
+        "created_at": "2026-06-30T14:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071959312663203899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071959312663203899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1396,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "真的很念旧，舍不得删聊天记录虽然已经和对方断联了，有时候再看回去就发现原来他还会说这样逗我哄我的话，那时候的我收到这样的讯息是很开心幸福的吧，但现在看着聊天记录只剩叹气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-25T12:30:33.000Z",
+        "description": "不约不聊骚不看屌｜只是发点喜欢的｜不玩交友app不是本人｜幸福不在他方",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mjts20",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mjts20",
+                "start": 0,
+                "url": "https://t.co/G9c8B2MyN4"
+              }
+            ]
+          }
+        },
+        "id": "1386296545289531398",
+        "location": "Malaysia",
+        "name": "mjts",
+        "pinned_tweet_id": "2019778772795310091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065454696723251200/55hIfBl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 49,
+          "like_count": 471,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/G9c8B2MyN4",
+        "username": "mjtsTT",
+        "verified": false
+      }
+    ]
+  }
+}

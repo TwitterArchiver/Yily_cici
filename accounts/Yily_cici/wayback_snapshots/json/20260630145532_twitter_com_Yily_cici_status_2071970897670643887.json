@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071970853718274048"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071970897670643887",
+    "created_at": "2026-06-30T14:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071970897670643887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xVYGI2kwDw",
+          "end": 28,
+          "expanded_url": "https://x.com/Yily_cici/status/2071970897670643887/video/1",
+          "media_key": "13_2071970853718274048",
+          "start": 5,
+          "url": "https://t.co/xVYGI2kwDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071970897670643887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫咪！ https://t.co/xVYGI2kwDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3200,
+        "height": 720,
+        "media_key": "13_2071970853718274048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071970853718274048/img/g8lXijcxhX5TiV-y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071970853718274048/vid/avc1/274x270/8zDJV_nzdXXcQiUQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071970853718274048/vid/avc1/366x360/iYCbSFcBWteY757Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071970853718274048/vid/avc1/734x720/kyjbnlvuPh12gVMt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071970853718274048/pl/JOeBnz_AJQBMqigR.m3u8"
+          }
+        ],
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071970853718274048"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071970897670643887",
+        "created_at": "2026-06-30T14:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071970897670643887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVYGI2kwDw",
+              "end": 28,
+              "expanded_url": "https://x.com/Yily_cici/status/2071970897670643887/video/1",
+              "media_key": "13_2071970853718274048",
+              "start": 5,
+              "url": "https://t.co/xVYGI2kwDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071970897670643887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫咪！ https://t.co/xVYGI2kwDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 98,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

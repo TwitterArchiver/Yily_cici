@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2049807854052483400",
+    "created_at": "2026-04-30T15:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049873116122484762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883043976670011392",
+          "start": 0,
+          "username": "eek1k1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049873116122484762",
+    "in_reply_to_user_id": "1883043976670011392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049807854052483400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eek1k1 宿舍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2049807854052483400",
+        "created_at": "2026-04-30T15:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049873116122484762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883043976670011392",
+              "start": 0,
+              "username": "eek1k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049873116122484762",
+        "in_reply_to_user_id": "1883043976670011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049807854052483400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eek1k1 宿舍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883043976670011392",
+        "conversation_id": "2049807854052483400",
+        "created_at": "2026-04-30T11:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049807854052483400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049807854052483400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1340,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们五一都去哪玩呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 100,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 196
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T06:47:42.000Z",
+        "description": "本人不对该账号0:00-24:00发表的任何言论负责 | 我是菠萝心 请不要伤害我૮₍◞‸◟₎ა",
+        "id": "1883043976670011392",
+        "name": "宝子你继续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049066464410505216/JERLVm0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 187,
+          "like_count": 2645,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 4164
+        },
+        "username": "eek1k1",
+        "verified": false
+      }
+    ]
+  }
+}

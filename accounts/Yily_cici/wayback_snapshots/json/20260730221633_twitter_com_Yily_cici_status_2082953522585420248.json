@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082743642570248342",
+    "created_at": "2026-07-30T22:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082953522585420248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854807612866318336",
+          "start": 0,
+          "username": "ran_yue88875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082953522585420248",
+    "in_reply_to_user_id": "1854807612866318336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082948903838589239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ran_yue88875 支持…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082743642570248342",
+        "created_at": "2026-07-30T22:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082953522585420248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854807612866318336",
+              "start": 0,
+              "username": "ran_yue88875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082953522585420248",
+        "in_reply_to_user_id": "1854807612866318336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082948903838589239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ran_yue88875 支持…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854807612866318336",
+        "conversation_id": "2082743642570248342",
+        "created_at": "2026-07-30T21:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082948903838589239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082948903838589239",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082743642570248342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 爱的时候说的话不应该不爱的时候拿来嘲讽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 30,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T08:46:20.000Z",
+        "description": "骂我？听不懂，感觉在撒娇",
+        "id": "1854807612866318336",
+        "name": "Vicky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077878853653917696/pWIjUz7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 37,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "ran_yue88875",
+        "verified": false
+      }
+    ]
+  }
+}

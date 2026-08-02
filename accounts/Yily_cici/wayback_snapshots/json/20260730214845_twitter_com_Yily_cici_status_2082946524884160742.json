@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082918534880137593",
+    "created_at": "2026-07-30T21:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082946524884160742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012752816482439168",
+          "start": 0,
+          "username": "luyi17x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082946524884160742",
+    "in_reply_to_user_id": "2012752816482439168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082941890270498910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luyi17x owo你也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082918534880137593",
+        "created_at": "2026-07-30T21:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082946524884160742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012752816482439168",
+              "start": 0,
+              "username": "luyi17x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082946524884160742",
+        "in_reply_to_user_id": "2012752816482439168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082941890270498910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luyi17x owo你也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012752816482439168",
+        "conversation_id": "2082918534880137593",
+        "created_at": "2026-07-30T21:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082941890270498910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082941890270498910",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082940763026133189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 女孩我保证你是天使😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 30,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T05:04:19.000Z",
+        "description": "",
+        "id": "2012752816482439168",
+        "name": "没关系你有我啊",
+        "pinned_tweet_id": "2078176130578956537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079132803812446208/PbNjWer3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "luyi17x",
+        "verified": false
+      }
+    ]
+  }
+}

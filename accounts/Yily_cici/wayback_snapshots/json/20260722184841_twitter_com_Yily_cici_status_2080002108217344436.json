@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079992042932035950",
+    "created_at": "2026-07-22T18:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080002108217344436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2079669450006233088",
+          "start": 0,
+          "username": "T7aaaaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080002108217344436",
+    "in_reply_to_user_id": "2079669450006233088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080001474965475604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T7aaaaT owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079992042932035950",
+        "created_at": "2026-07-22T18:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080002108217344436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2079669450006233088",
+              "start": 0,
+              "username": "T7aaaaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080002108217344436",
+        "in_reply_to_user_id": "2079669450006233088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080001474965475604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T7aaaaT owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079669450006233088",
+        "conversation_id": "2079992042932035950",
+        "created_at": "2026-07-22T18:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080001474965475604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080001474965475604",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079992042932035950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 这个距离真的假的，7.1km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 97,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T20:48:53.000Z",
+        "description": "",
+        "id": "2079669450006233088",
+        "name": "凛冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079670267731972096/RfwlPHFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "T7aaaaT",
+        "verified": false
+      }
+    ]
+  }
+}

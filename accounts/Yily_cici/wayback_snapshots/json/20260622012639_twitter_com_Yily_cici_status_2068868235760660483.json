@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068868191808618497"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068868235760660483",
+    "created_at": "2026-06-22T01:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068868235760660483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h99u8sUtpn",
+          "end": 116,
+          "expanded_url": "https://x.com/Yily_cici/status/2068868235760660483/photo/1",
+          "media_key": "3_2068868191808618497",
+          "start": 93,
+          "url": "https://t.co/h99u8sUtpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068868235760660483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来打瓦的时候不懂什么神话超凡是什么意思去问别人 别人说是下三的意思 结果我连下三也不知道是什么意思🌚（打瓦我只会开游戏 并不知道段位是什么怎么排的 而且打得特菜）目前地图还是不太熟 https://t.co/h99u8sUtpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068868191808618497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYYqLvbgAEDmkr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068868191808618497"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068868235760660483",
+        "created_at": "2026-06-22T01:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068868235760660483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h99u8sUtpn",
+              "end": 116,
+              "expanded_url": "https://x.com/Yily_cici/status/2068868235760660483/photo/1",
+              "media_key": "3_2068868191808618497",
+              "start": 93,
+              "url": "https://t.co/h99u8sUtpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068868235760660483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来打瓦的时候不懂什么神话超凡是什么意思去问别人 别人说是下三的意思 结果我连下三也不知道是什么意思🌚（打瓦我只会开游戏 并不知道段位是什么怎么排的 而且打得特菜）目前地图还是不太熟 https://t.co/h99u8sUtpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061105225965158400/0-UnbIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 99,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

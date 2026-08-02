@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082371636729115039",
+    "created_at": "2026-07-29T15:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082494819658862767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009907458530258945",
+          "start": 0,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082494819658862767",
+    "in_reply_to_user_id": "2009907458530258945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082371636729115039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cOniqGBygQ16927 笑死我了 他也给我发了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082371626885074944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYR9jbWUAANk9-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082371636729115039",
+        "created_at": "2026-07-29T15:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082494819658862767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009907458530258945",
+              "start": 0,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082494819658862767",
+        "in_reply_to_user_id": "2009907458530258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082371636729115039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOniqGBygQ16927 笑死我了 他也给我发了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082371626885074944"
+          ]
+        },
+        "author_id": "2009907458530258945",
+        "conversation_id": "2082371636729115039",
+        "created_at": "2026-07-29T07:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082371636729115039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFaTwzXMfi",
+              "end": 36,
+              "expanded_url": "https://x.com/cOniqGBygQ16927/status/2082371636729115039/photo/1",
+              "media_key": "3_2082371626885074944",
+              "start": 13,
+              "url": "https://t.co/TFaTwzXMfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082371636729115039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5155,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "配18b我不生气我不生气 https://t.co/TFaTwzXMfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 30,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 28,
+          "like_count": 1498,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

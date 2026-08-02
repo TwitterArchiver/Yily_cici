@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2079557738431238443",
+    "created_at": "2026-07-22T00:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079720632603021520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1620481290452766722",
+          "start": 0,
+          "username": "chenyingsi666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079720632603021520",
+    "in_reply_to_user_id": "1620481290452766722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079557738431238443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyingsi666 依旧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2079557738431238443",
+        "created_at": "2026-07-22T00:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079720632603021520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1620481290452766722",
+              "start": 0,
+              "username": "chenyingsi666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079720632603021520",
+        "in_reply_to_user_id": "1620481290452766722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079557738431238443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyingsi666 依旧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620481290452766722",
+        "conversation_id": "2079557738431238443",
+        "created_at": "2026-07-21T13:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079557738431238443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079557738431238443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最后再玩两天强袭片手就复习教资"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "owo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 97,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:57:18.000Z",
+        "description": "随缘更新",
+        "id": "1620481290452766722",
+        "name": "无敌麦当劳大薯",
+        "pinned_tweet_id": "2077022462865481927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078717235619913728/B_OlmVIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7501,
+          "following_count": 11,
+          "like_count": 630,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 944
+        },
+        "url": "",
+        "username": "chenyingsi666",
+        "verified": true
+      }
+    ]
+  }
+}

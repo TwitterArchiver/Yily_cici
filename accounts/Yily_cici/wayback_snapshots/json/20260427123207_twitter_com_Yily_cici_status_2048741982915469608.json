@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048741982915469608",
+    "created_at": "2026-04-27T12:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048741982915469608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2452389134",
+          "start": 3,
+          "username": "baaaaaaaaaaaa__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048741982915469608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048653707043315792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baaaaaaaaaaaa__: 你网上立一下清醒人设算了，现实生活中谁不想急头白脸问一句所以我们现在是什么关系，你到底把我当什么，看我哭你真的不难过吗，你跟他断了吗，我和他们就没有区别吗，你会不会离开我，你怎么不回我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048741982915469608",
+        "created_at": "2026-04-27T12:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048741982915469608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2452389134",
+              "start": 3,
+              "username": "baaaaaaaaaaaa__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741982915469608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048653707043315792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baaaaaaaaaaaa__: 你网上立一下清醒人设算了，现实生活中谁不想急头白脸问一句所以我们现在是什么关系，你到底把我当什么，看我哭你真的不难过吗，你跟他断了吗，我和他们就没有区别吗，你会不会离开我，你怎么不回我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2452389134",
+        "conversation_id": "2048653707043315792",
+        "created_at": "2026-04-27T06:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048653707043315792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048653707043315792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你网上立一下清醒人设算了，现实生活中谁不想急头白脸问一句所以我们现在是什么关系，你到底把我当什么，看我哭你真的不难过吗，你跟他断了吗，我和他们就没有区别吗，你会不会离开我，你怎么不回我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 95,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 182
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-19T04:28:49.000Z",
+        "description": "Sweet and rebellious",
+        "id": "2452389134",
+        "name": "零一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033413877644623872/Y71UbiUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56078,
+          "following_count": 785,
+          "like_count": 10820,
+          "listed_count": 144,
+          "media_count": 2194,
+          "tweet_count": 8790
+        },
+        "username": "baaaaaaaaaaaa__",
+        "verified": true
+      }
+    ]
+  }
+}

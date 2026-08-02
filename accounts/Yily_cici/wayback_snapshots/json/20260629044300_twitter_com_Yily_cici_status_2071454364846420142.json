@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071454364846420142",
+    "created_at": "2026-06-29T04:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071454364846420142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537523580614893568",
+          "start": 3,
+          "username": "rxswago"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071454364846420142",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071291430530662751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rxswago: i push people away when I’m scared to lose them."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071454364846420142",
+        "created_at": "2026-06-29T04:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071454364846420142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537523580614893568",
+              "start": 3,
+              "username": "rxswago"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071454364846420142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071291430530662751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rxswago: i push people away when I’m scared to lose them."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537523580614893568",
+        "conversation_id": "2071291430530662751",
+        "created_at": "2026-06-28T17:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071291430530662751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071291430530662751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 14116,
+          "like_count": 396,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "i push people away when I’m scared to lose them."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵或者负能多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 98,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T19:53:18.000Z",
+        "description": "solitary @InterMiamiCf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "InterMiamiCf"
+              }
+            ]
+          }
+        },
+        "id": "1537523580614893568",
+        "name": "64",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058516887445585920/MaAnl6WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1502,
+          "like_count": 16159,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 4223
+        },
+        "url": "",
+        "username": "rxswago",
+        "verified": false
+      }
+    ]
+  }
+}

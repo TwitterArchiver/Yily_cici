@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080167894487650783",
+    "created_at": "2026-07-23T05:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080167894487650783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010323586108764160",
+          "start": 3,
+          "username": "yyjyy5228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080167894487650783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080054578205307335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyjyy5228: 好想有个人知道我拜金之后给我转很多钱说我有钱你能不能多爱我一点 穷逼被穷死之前的幻想罢了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080167894487650783",
+        "created_at": "2026-07-23T05:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080167894487650783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010323586108764160",
+              "start": 3,
+              "username": "yyjyy5228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080167894487650783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080054578205307335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyjyy5228: 好想有个人知道我拜金之后给我转很多钱说我有钱你能不能多爱我一点 穷逼被穷死之前的幻想罢了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010323586108764160",
+        "conversation_id": "2080054578205307335",
+        "created_at": "2026-07-22T22:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080054578205307335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080054578205307335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 640,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想有个人知道我拜金之后给我转很多钱说我有钱你能不能多爱我一点 穷逼被穷死之前的幻想罢了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo\n私信请礼貌 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 97,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T12:11:21.000Z",
+        "description": "悠 前世@yydw528 \n我的眼泪是比身体更赤裸的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "yydw528"
+              }
+            ]
+          }
+        },
+        "id": "2010323586108764160",
+        "location": "南方公园",
+        "name": "悠悠酱悠悠（重开版）",
+        "pinned_tweet_id": "2025602741834572106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058015700590141440/frdWd50a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 118,
+          "like_count": 29543,
+          "listed_count": 14,
+          "media_count": 508,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "yyjyy5228",
+        "verified": false
+      }
+    ]
+  }
+}

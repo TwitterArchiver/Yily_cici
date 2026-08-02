@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071206849186353527",
+    "created_at": "2026-06-28T12:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071206849186353527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704981338426642432",
+          "start": 3,
+          "username": "DrkDashiell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071206849186353527",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9914
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070485493138002335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrkDashiell: i hate it when people ask about my future\ni should've been dead"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071206849186353527",
+        "created_at": "2026-06-28T12:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071206849186353527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704981338426642432",
+              "start": 3,
+              "username": "DrkDashiell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071206849186353527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9914
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070485493138002335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrkDashiell: i hate it when people ask about my future\ni should've been dead"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704981338426642432",
+        "conversation_id": "2070485493138002335",
+        "created_at": "2026-06-26T12:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070485493138002335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070485493138002335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1137,
+          "impression_count": 311073,
+          "like_count": 32116,
+          "quote_count": 144,
+          "reply_count": 30,
+          "retweet_count": 9914
+        },
+        "reply_settings": "everyone",
+        "text": "i hate it when people ask about my future\ni should've been dead"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T22:10:14.000Z",
+        "description": "What are you doing on this depraved profile?                          \nthere's too many to list⛓️ #shtwt #goretwt #ranttwt #bloodtwt #suicidetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "shtwt"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "tag": "goretwt"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "tag": "ranttwt"
+              },
+              {
+                "end": 132,
+                "start": 123,
+                "tag": "bloodtwt"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "tag": "suicidetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlydashhx.straw.page",
+                "end": 23,
+                "expanded_url": "https://onlydashhx.straw.page",
+                "start": 0,
+                "url": "https://t.co/wKmQMByHF7"
+              }
+            ]
+          }
+        },
+        "id": "1704981338426642432",
+        "location": "gay word",
+        "name": "OnlyDash",
+        "pinned_tweet_id": "2058663543818322012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066203007604101120/qOXSl-vK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 1272,
+          "like_count": 8812,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 4751
+        },
+        "url": "https://t.co/wKmQMByHF7",
+        "username": "DrkDashiell",
+        "verified": false
+      }
+    ]
+  }
+}

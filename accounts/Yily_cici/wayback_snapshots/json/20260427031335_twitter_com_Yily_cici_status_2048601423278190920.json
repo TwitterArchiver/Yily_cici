@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048601423278190920",
+    "created_at": "2026-04-27T03:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048601423278190920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048601423278190920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048292241035448449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 我真的认为伴侣的原生家庭多么不好。多不幸福。这些跟我都没有关系。不是我让你爸妈这样的。\n我会心疼你。会想办法让你走出来。但是这不是你卖惨的理由。这不是出了什么事吵架了你狡辩的理由。说这些不就是想把原因归结到这里然后逃避你就是一个不负责任的幼稚的小孩吗。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048601423278190920",
+        "created_at": "2026-04-27T03:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048601423278190920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048601423278190920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048292241035448449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 我真的认为伴侣的原生家庭多么不好。多不幸福。这些跟我都没有关系。不是我让你爸妈这样的。\n我会心疼你。会想办法让你走出来。但是这不是你卖惨的理由。这不是出了什么事吵架了你狡辩的理由。说这些不就是想把原因归结到这里然后逃避你就是一个不负责任的幼稚的小孩吗。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2048292241035448449",
+        "created_at": "2026-04-26T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048292241035448449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048292241035448449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2105,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真的认为伴侣的原生家庭多么不好。多不幸福。这些跟我都没有关系。不是我让你爸妈这样的。\n我会心疼你。会想办法让你走出来。但是这不是你卖惨的理由。这不是出了什么事吵架了你狡辩的理由。说这些不就是想把原因归结到这里然后逃避你就是一个不负责任的幼稚的小孩吗。成年人谈恋爱还搞这套搞笑不。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 96,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 143
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047727929317298177/-wMgLHmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 227,
+          "like_count": 22867,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 12157
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

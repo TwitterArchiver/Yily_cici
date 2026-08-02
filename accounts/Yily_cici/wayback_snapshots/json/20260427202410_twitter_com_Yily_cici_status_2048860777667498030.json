@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048860777667498030",
+    "created_at": "2026-04-27T20:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T21:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048860777667498030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048860777667498030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048753861763154231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 如果你是回避型 那你就应该在关系的最开始就回避吧！就不应该产生联系吧！不应该说了一堆很重的话之后又管自己跑了 知道自己是回避型一开始干嘛装啊？你们回避型说起自己的委屈是根本不提最开始就是你们许下承诺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048860777667498030",
+        "created_at": "2026-04-27T20:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048860777667498030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048860777667498030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048753861763154231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 如果你是回避型 那你就应该在关系的最开始就回避吧！就不应该产生联系吧！不应该说了一堆很重的话之后又管自己跑了 知道自己是回避型一开始干嘛装啊？你们回避型说起自己的委屈是根本不提最开始就是你们许下承诺的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2048753861763154231",
+        "created_at": "2026-04-27T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048753861763154231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048753861763154231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6763,
+          "like_count": 208,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是回避型 那你就应该在关系的最开始就回避吧！就不应该产生联系吧！不应该说了一堆很重的话之后又管自己跑了 知道自己是回避型一开始干嘛装啊？你们回避型说起自己的委屈是根本不提最开始就是你们许下承诺的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 95,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 186
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6274,
+          "following_count": 58,
+          "like_count": 6379,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1559
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071281557227327585",
+    "created_at": "2026-06-28T17:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071281557227327585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067452702007717888",
+          "start": 3,
+          "username": "O6hO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071281557227327585",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2009
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070953495759335658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O6hO1: eu odeio ser extremamente sensível e tudo acaba me afetando"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071281557227327585",
+        "created_at": "2026-06-28T17:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071281557227327585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067452702007717888",
+              "start": 3,
+              "username": "O6hO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071281557227327585",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2009
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070953495759335658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O6hO1: eu odeio ser extremamente sensível e tudo acaba me afetando"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067452702007717888",
+        "conversation_id": "2070953495759335658",
+        "created_at": "2026-06-27T19:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070953495759335658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070953495759335658",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 73656,
+          "like_count": 4164,
+          "quote_count": 38,
+          "reply_count": 12,
+          "retweet_count": 2009
+        },
+        "reply_settings": "everyone",
+        "text": "eu odeio ser extremamente sensível e tudo acaba me afetando"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T03:42:35.000Z",
+        "description": "𖹭⠀⠀ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ͏͏ㅤ⠀(⠀  𝖺𝗎𝗍𝗎𝗆𝗇𝗌.⠀⠀)",
+        "id": "2067452702007717888",
+        "location": "𝗆𝗈𝗈𝗇𝗅𝗂g𝗁𝗍",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070617471728431104/UcMoaB_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 97,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "O6hO1",
+        "verified": false
+      }
+    ]
+  }
+}

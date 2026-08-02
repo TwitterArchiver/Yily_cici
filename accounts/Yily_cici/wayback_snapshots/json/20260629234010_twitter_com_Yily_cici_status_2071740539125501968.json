@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071740395705536694",
+    "created_at": "2026-06-29T23:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T00:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071740539125501968"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071740539125501968",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071740395705536694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原本想上半场打游戏下半场复习期末的 结果打了一晚上游戏…😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 909,
+        "media_key": "3_2071740387950235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBM6AKakAAPPeS.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071740395705536694",
+        "created_at": "2026-06-29T23:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071740539125501968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071740539125501968",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071740395705536694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原本想上半场打游戏下半场复习期末的 结果打了一晚上游戏…😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071740387950235648"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071740395705536694",
+        "created_at": "2026-06-29T23:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071740395705536694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42PHvix6w2",
+              "end": 32,
+              "expanded_url": "https://x.com/Yily_cici/status/2071740395705536694/photo/1",
+              "media_key": "3_2071740387950235648",
+              "start": 9,
+              "url": "https://t.co/42PHvix6w2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071740395705536694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝不亏待自己之人 https://t.co/42PHvix6w2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候可能会有点吵负能有点多。如果打扰到你了请给我屏蔽掉。对不起。oxo\nisfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

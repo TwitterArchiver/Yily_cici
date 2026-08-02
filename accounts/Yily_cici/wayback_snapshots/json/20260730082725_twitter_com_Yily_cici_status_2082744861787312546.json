@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082744861787312546",
+    "created_at": "2026-07-30T08:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082744861787312546"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082744861787312546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发这些负能。并不是寻求安慰，我特么除了推特没有任何人可以说了。我靠，我也想每天过的很滋润发一些正能量帖子。可是，这踏马就是我的生活。你们当看不见可不可以啊，我只是想说出去，我靠，啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082744861787312546",
+        "created_at": "2026-07-30T08:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082744861787312546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082744861787312546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发这些负能。并不是寻求安慰，我特么除了推特没有任何人可以说了。我靠，我也想每天过的很滋润发一些正能量帖子。可是，这踏马就是我的生活。你们当看不见可不可以啊，我只是想说出去，我靠，啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 30,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

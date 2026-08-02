@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080003795900342767",
+    "created_at": "2026-07-22T18:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080003795900342767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009907458530258945",
+          "start": 3,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080003795900342767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079560026209853672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cOniqGBygQ16927: 你把手往下面伸，有管你就撸有逼你就扣，这比攻击我好玩多了，我们只是网友，你把手机摔了你手机就坏了就看不到我了，不要为难我，放过彼此OK?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080003795900342767",
+        "created_at": "2026-07-22T18:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080003795900342767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009907458530258945",
+              "start": 3,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080003795900342767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079560026209853672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cOniqGBygQ16927: 你把手往下面伸，有管你就撸有逼你就扣，这比攻击我好玩多了，我们只是网友，你把手机摔了你手机就坏了就看不到我了，不要为难我，放过彼此OK?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2079560026209853672",
+        "created_at": "2026-07-21T13:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079560026209853672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079560026209853672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你把手往下面伸，有管你就撸有逼你就扣，这比攻击我好玩多了，我们只是网友，你把手机摔了你手机就坏了就看不到我了，不要为难我，放过彼此OK?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 97,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2045381479245492711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074520756566794240/08KY_-aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 21,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

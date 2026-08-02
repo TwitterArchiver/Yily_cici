@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048627728547823651",
+    "created_at": "2026-04-27T04:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048627728547823651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1985353024244793345",
+          "start": 3,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048627728547823651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048426814633062728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitterpearlbird: 你的爱和谁都可以的话 那我就不要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048627728547823651",
+        "created_at": "2026-04-27T04:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048627728547823651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1985353024244793345",
+              "start": 3,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048627728547823651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048426814633062728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitterpearlbird: 你的爱和谁都可以的话 那我就不要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985353024244793345",
+        "conversation_id": "2048426814633062728",
+        "created_at": "2026-04-26T15:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048426814633062728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048426814633062728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的爱和谁都可以的话 那我就不要了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 96,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 147
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv",
+        "id": "1985353024244793345",
+        "location": "滚",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2028806063185911906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 350,
+          "like_count": 21652,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 2269
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

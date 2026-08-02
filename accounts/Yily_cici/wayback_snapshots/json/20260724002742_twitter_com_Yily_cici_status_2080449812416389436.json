@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2080449812416389436",
+    "created_at": "2026-07-24T00:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080449812416389436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549767747936014336",
+          "start": 3,
+          "username": "EEmoai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080449812416389436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080124647614660860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EEmoai: 好想当娇妻好想无理取闹 好想缠着老公一哭二闹三上吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2080449812416389436",
+        "created_at": "2026-07-24T00:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080449812416389436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549767747936014336",
+              "start": 3,
+              "username": "EEmoai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080449812416389436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080124647614660860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EEmoai: 好想当娇妻好想无理取闹 好想缠着老公一哭二闹三上吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549767747936014336",
+        "conversation_id": "2080124647614660860",
+        "created_at": "2026-07-23T02:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080124647614660860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080124647614660860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2742,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想当娇妻好想无理取闹 好想缠着老公一哭二闹三上吊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果吵到你了请给我屏蔽掉。对不起。oxo\n私信请礼貌 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "距离您7.1km",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2079725757572718690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079991963286396928/gEBb2RBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 99,
+          "like_count": 1368,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T14:46:54.000Z",
+        "description": "我只是一只小猫",
+        "id": "1549767747936014336",
+        "name": "Artemis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056807636243513344/c5JQUeld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 70,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "EEmoai",
+        "verified": false
+      }
+    ]
+  }
+}

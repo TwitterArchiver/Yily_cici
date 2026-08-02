@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048392220613697605",
+    "created_at": "2026-04-27T00:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048562296172265951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014214501416284160",
+          "start": 0,
+          "username": "wgylly2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048562296172265951",
+    "in_reply_to_user_id": "2014214501416284160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048392220613697605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgylly2 这个问题太深奥了 打舌钉后连嘴子都没亲过.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048392220613697605",
+        "created_at": "2026-04-27T00:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048562296172265951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014214501416284160",
+              "start": 0,
+              "username": "wgylly2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048562296172265951",
+        "in_reply_to_user_id": "2014214501416284160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048392220613697605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgylly2 这个问题太深奥了 打舌钉后连嘴子都没亲过.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214501416284160",
+        "conversation_id": "2048392220613697605",
+        "created_at": "2026-04-26T13:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048392220613697605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048392220613697605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 85675,
+          "like_count": 110,
+          "quote_count": 4,
+          "reply_count": 205,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "所以有人能形容一下被舌钉口交是什么感觉吗🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 95,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 115
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T05:52:30.000Z",
+        "description": "",
+        "id": "2014214501416284160",
+        "name": "Xixi",
+        "pinned_tweet_id": "2032329261059854349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222087808765952/hzvf-9Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 16,
+          "like_count": 345,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 1226
+        },
+        "username": "wgylly2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2082954628325654701",
+    "created_at": "2026-07-31T07:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083086606215581821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058025442096123904",
+          "start": 0,
+          "username": "LazarusWZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083086606215581821",
+    "in_reply_to_user_id": "2058025442096123904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083032696666890309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazarusWZX 垃圾都在垃圾桶哦 并且早上已经倒过了 房间里面没有垃圾了owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082954628325654701",
+        "created_at": "2026-07-31T07:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083086606215581821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058025442096123904",
+              "start": 0,
+              "username": "LazarusWZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083086606215581821",
+        "in_reply_to_user_id": "2058025442096123904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083032696666890309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazarusWZX 垃圾都在垃圾桶哦 并且早上已经倒过了 房间里面没有垃圾了owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058025442096123904",
+        "conversation_id": "2082954628325654701",
+        "created_at": "2026-07-31T03:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083032696666890309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083032696666890309",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082954628325654701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 不行 你现在把房间里的垃圾收拾一下再给我炒俩菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 30,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:21:59.000Z",
+        "description": "上课摸鱼的加拿大学籍国际生/07/性别男爱好女/目前0互fo/时间大把可私信倾诉原生家庭（不是）/带主播打三角洲请",
+        "id": "2058025442096123904",
+        "location": "中国 上海/加拿大 安大略省",
+        "name": "Lazarus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066804234683920384/iSTFG21w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "LazarusWZX",
+        "verified": false
+      }
+    ]
+  }
+}

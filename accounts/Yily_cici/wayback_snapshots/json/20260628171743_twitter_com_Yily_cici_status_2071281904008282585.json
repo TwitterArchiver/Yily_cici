@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2071281904008282585",
+    "created_at": "2026-06-28T17:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071281904008282585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041542502591737856",
+          "start": 3,
+          "username": "dontlovedave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071281904008282585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070976759198044216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontlovedave: one day it feels like i’m healing, next day i’m breaking again. it’s a cycle that has no end"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2071281904008282585",
+        "created_at": "2026-06-28T17:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071281904008282585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041542502591737856",
+              "start": 3,
+              "username": "dontlovedave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071281904008282585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070976759198044216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontlovedave: one day it feels like i’m healing, next day i’m breaking again. it’s a cycle that has no end"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041542502591737856",
+        "conversation_id": "2070976759198044216",
+        "created_at": "2026-06-27T21:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070976759198044216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070976759198044216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 30569,
+          "like_count": 1653,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 828
+        },
+        "reply_settings": "everyone",
+        "text": "one day it feels like i’m healing, next day i’m breaking again. it’s a cycle that has no end"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "isfj♍️",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070512528447422464/FSV1E3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T15:44:05.000Z",
+        "description": "𝘴𝘪𝘨𝘩\n10𝘬 𝘰𝘯 𝘐𝘎\n𝘥𝘮 𝘧𝘰𝘳 𝘯𝘰𝘵𝘪𝘴⟡\n@iamdavetrippinn❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "iamdavetrippinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/iamdavetrippin",
+                "end": 23,
+                "expanded_url": "https://instagram.com/iamdavetrippin",
+                "start": 0,
+                "url": "https://t.co/VyG03erC0S"
+              }
+            ]
+          }
+        },
+        "id": "2041542502591737856",
+        "location": "nowhere",
+        "name": "𓆩♡𓆪",
+        "pinned_tweet_id": "2062259009957331403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041544937448280064/7Sq4LsQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 565,
+          "like_count": 21826,
+          "listed_count": 8,
+          "media_count": 127,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/VyG03erC0S",
+        "username": "dontlovedave",
+        "verified": true
+      }
+    ]
+  }
+}

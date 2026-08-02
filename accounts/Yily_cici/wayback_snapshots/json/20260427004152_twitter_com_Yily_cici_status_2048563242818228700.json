@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048563242818228700",
+    "created_at": "2026-04-27T00:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048563242818228700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029257641579720704",
+          "start": 3,
+          "username": "cangshu_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048563242818228700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048265423163212280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cangshu_king: 你们他妈说的纯爱是纯纯做爱啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048563242818228700",
+        "created_at": "2026-04-27T00:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048563242818228700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029257641579720704",
+              "start": 3,
+              "username": "cangshu_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048563242818228700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048265423163212280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cangshu_king: 你们他妈说的纯爱是纯纯做爱啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029257641579720704",
+        "conversation_id": "2048265423163212280",
+        "created_at": "2026-04-26T04:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048265423163212280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048265423163212280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5577,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们他妈说的纯爱是纯纯做爱啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。",
+        "id": "1389396065485398018",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 95,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 118
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T18:08:29.000Z",
+        "description": "1i=3i=4i switch\n千千万万 明心见己\n别给我发私信想加我微信就给我转五千",
+        "id": "2029257641579720704",
+        "name": "无敌仓鼠大王",
+        "pinned_tweet_id": "2037177158138048740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043307335834337280/ppulwC98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 25,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 412
+        },
+        "username": "cangshu_king",
+        "verified": false
+      }
+    ]
+  }
+}

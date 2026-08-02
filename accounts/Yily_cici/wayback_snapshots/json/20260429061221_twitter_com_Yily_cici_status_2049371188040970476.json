@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2048733572392206809",
+    "created_at": "2026-04-29T06:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049371188040970476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563047808894021635",
+          "start": 0,
+          "username": "yangxiaobox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049371188040970476",
+    "in_reply_to_user_id": "1563047808894021635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049370752693248392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangxiaobox 好的谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2048733572392206809",
+        "created_at": "2026-04-29T06:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049371188040970476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563047808894021635",
+              "start": 0,
+              "username": "yangxiaobox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049371188040970476",
+        "in_reply_to_user_id": "1563047808894021635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049370752693248392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangxiaobox 好的谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563047808894021635",
+        "conversation_id": "2048733572392206809",
+        "created_at": "2026-04-29T06:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049370752693248392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049370752693248392",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049044629484634446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 从昨天下午开始我现在只要开着全局代理就能收到提醒了，虽然可能每三条才会提醒一条但是最起码有了，关掉🪜或者代理不开全局都是收不到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "可能有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2047696832772665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040529028495577088/rwTjItCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T06:17:04.000Z",
+        "description": "nothing there",
+        "id": "1563047808894021635",
+        "name": "yeppppppp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597495256898904064/YpGpMZ_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 241,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1143
+        },
+        "username": "yangxiaobox",
+        "verified": false
+      }
+    ]
+  }
+}
