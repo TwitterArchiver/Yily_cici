@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083719553750892544"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083719563083166089",
+    "created_at": "2026-08-02T01:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083719563083166089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ocoWZsXT0",
+          "end": 32,
+          "expanded_url": "https://x.com/Yily_cici/status/2083719563083166089/photo/1",
+          "media_key": "3_2083719553750892544",
+          "start": 9,
+          "url": "https://t.co/9ocoWZsXT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083719563083166089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "还是觉得好好笑… https://t.co/9ocoWZsXT0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1357,
+        "media_key": "3_2083719553750892544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrb5OTbgAATdv_.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083719553750892544"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083719563083166089",
+        "created_at": "2026-08-02T01:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083719563083166089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ocoWZsXT0",
+              "end": 32,
+              "expanded_url": "https://x.com/Yily_cici/status/2083719563083166089/photo/1",
+              "media_key": "3_2083719553750892544",
+              "start": 9,
+              "url": "https://t.co/9ocoWZsXT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083719563083166089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "还是觉得好好笑… https://t.co/9ocoWZsXT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 29,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

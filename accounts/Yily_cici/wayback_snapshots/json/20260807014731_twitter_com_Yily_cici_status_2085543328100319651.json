@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2085541982496321878",
+    "created_at": "2026-08-07T01:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085543328100319651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030718958937219072",
+          "start": 0,
+          "username": "Elowenist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085543328100319651",
+    "in_reply_to_user_id": "2030718958937219072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085541982496321878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elowenist 臣来迟了 这一呆 就是一辈子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2085541982496321878",
+        "created_at": "2026-08-07T01:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085543328100319651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030718958937219072",
+              "start": 0,
+              "username": "Elowenist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085543328100319651",
+        "in_reply_to_user_id": "2030718958937219072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085541982496321878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elowenist 臣来迟了 这一呆 就是一辈子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030718958937219072",
+        "conversation_id": "2085541982496321878",
+        "created_at": "2026-08-07T01:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085541982496321878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085541982496321878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不允许任何一个人出现在我的生命里一段时间然后就走了留我一个人懵逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "不会让你一个人。\n有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2083838098656604439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 25,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T18:55:27.000Z",
+        "description": "太依赖你的话我一个人怎么生活",
+        "id": "2030718958937219072",
+        "name": "Silent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083985185578909696/eNjjKOnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Elowenist",
+        "verified": false
+      }
+    ]
+  }
+}

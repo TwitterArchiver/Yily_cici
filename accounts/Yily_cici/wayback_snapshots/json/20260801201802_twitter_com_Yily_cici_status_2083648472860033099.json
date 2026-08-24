@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083648472860033099",
+    "created_at": "2026-08-01T20:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083648472860033099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yily_cici/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yily_cici/status/2083154760258187701",
+          "start": 6,
+          "url": "https://t.co/Wrmol3LCFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083648472860033099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083154760258187701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别推开我。 https://t.co/Wrmol3LCFU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083648472860033099",
+        "created_at": "2026-08-01T20:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083648472860033099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yily_cici/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yily_cici/status/2083154760258187701",
+              "start": 6,
+              "url": "https://t.co/Wrmol3LCFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083648472860033099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083154760258187701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别推开我。 https://t.co/Wrmol3LCFU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083154760258187701",
+        "created_at": "2026-07-31T11:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083154760258187701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083154760258187701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15066,
+          "like_count": 250,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "别总把我往外推呀 你把我推得远远的 你闹脾气 你掉眼泪 我离得太远看不到怎么办。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 29,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

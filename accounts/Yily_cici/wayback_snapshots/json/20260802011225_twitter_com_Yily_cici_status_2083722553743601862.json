@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083722553743601862",
+    "created_at": "2026-08-02T01:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083722553743601862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083722553743601862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "这些年你在我心里翻来覆去，一会儿是仇人，一会儿是爱人，有时两样都是。但没有一秒钟，我对你的感觉是轻的。骂完你关上手机，心跳还是他妈在加速。它不是平淡，它是烧过头之后的死灰，死灰下面全是没灭的火。\n我恨我没出息。也恨你太有分量。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083722553743601862",
+        "created_at": "2026-08-02T01:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083722553743601862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083722553743601862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "这些年你在我心里翻来覆去，一会儿是仇人，一会儿是爱人，有时两样都是。但没有一秒钟，我对你的感觉是轻的。骂完你关上手机，心跳还是他妈在加速。它不是平淡，它是烧过头之后的死灰，死灰下面全是没灭的火。\n我恨我没出息。也恨你太有分量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 29,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

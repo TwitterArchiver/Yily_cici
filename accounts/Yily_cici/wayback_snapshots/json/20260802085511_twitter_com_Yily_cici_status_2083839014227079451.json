@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083838098656604439",
+    "created_at": "2026-08-02T08:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083839014227079451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083839014227079451",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083838098656604439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "设🚪是因为过滤。一律不回加V私信 不互fo 抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083838098656604439",
+        "created_at": "2026-08-02T08:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083839014227079451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083839014227079451",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083838098656604439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "设🚪是因为过滤。一律不回加V私信 不互fo 抱歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083838098656604439",
+        "created_at": "2026-08-02T08:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083838098656604439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083838098656604439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "加V🚪52 口令（留姓）｜纯绿\n如果加V是聊天这里也可以聊 朋友圈很少发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2083838098656604439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 25,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

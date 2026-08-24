@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085135939459010560"
+      ]
+    },
+    "author_id": "1389396065485398018",
+    "conversation_id": "2085136064164057290",
+    "created_at": "2026-08-05T22:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T23:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085136064164057290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xd3itH7kCt",
+          "end": 36,
+          "expanded_url": "https://x.com/Yily_cici/status/2085136064164057290/video/1",
+          "media_key": "13_2085135939459010560",
+          "start": 13,
+          "url": "https://t.co/xd3itH7kCt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085136064164057290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重生之我的手成安抚奶嘴中 https://t.co/xd3itH7kCt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8731,
+        "height": 1920,
+        "media_key": "13_2085135939459010560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085135939459010560/img/xGuSO7Gt3okjORQi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085135939459010560/pl/xHM0wi7jBFrsMKUw.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085135939459010560/vid/avc1/320x568/3Df29EthP5DzYKzW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085135939459010560/vid/avc1/480x852/_zVObSxyDhoJPNbn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085135939459010560/vid/avc1/1080x1920/eRe1jVz2yjjZv1za.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085135939459010560/vid/avc1/720x1280/CjvtDGyGJ3H_xn1V.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085135939459010560"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2085136064164057290",
+        "created_at": "2026-08-05T22:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085136064164057290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd3itH7kCt",
+              "end": 36,
+              "expanded_url": "https://x.com/Yily_cici/status/2085136064164057290/video/1",
+              "media_key": "13_2085135939459010560",
+              "start": 13,
+              "url": "https://t.co/xd3itH7kCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085136064164057290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重生之我的手成安抚奶嘴中 https://t.co/xd3itH7kCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "不会让你一个人。\n有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2083838098656604439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 25,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

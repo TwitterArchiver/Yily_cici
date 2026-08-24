@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2085803178537443432",
+    "created_at": "2026-08-07T19:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085803178537443432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030718958937219072",
+          "start": 3,
+          "username": "Elowenist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085803178537443432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085799300240695305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elowenist: 想和你穿着睡衣 一起下楼去买宵夜顺\n便在楼道接吻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2085803178537443432",
+        "created_at": "2026-08-07T19:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085803178537443432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030718958937219072",
+              "start": 3,
+              "username": "Elowenist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085803178537443432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085799300240695305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elowenist: 想和你穿着睡衣 一起下楼去买宵夜顺\n便在楼道接吻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030718958937219072",
+        "conversation_id": "2085799300240695305",
+        "created_at": "2026-08-07T18:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085799300240695305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085799300240695305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想和你穿着睡衣 一起下楼去买宵夜顺\n便在楼道接吻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "不会让你一个人。\n有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2083838098656604439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 25,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T18:55:27.000Z",
+        "description": "太依赖你的话我一个人怎么生活",
+        "id": "2030718958937219072",
+        "name": "Silent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083985185578909696/eNjjKOnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "Elowenist",
+        "verified": false
+      }
+    ]
+  }
+}

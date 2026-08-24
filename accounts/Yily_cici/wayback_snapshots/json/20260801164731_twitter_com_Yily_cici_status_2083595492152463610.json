@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083595492152463610",
+    "created_at": "2026-08-01T16:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083595492152463610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083595492152463610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你可以站在我身边吗？可以偏心我多一点吗？可以再靠近我一点吗？可以把我当成重要的人吗？可以依赖我吗？可以对我有很多占有欲吗？遇到有意思的事物可以第一个分享给我吗？可以告诉我我在你心里的位置吗？可以不欺骗我吗？可以告诉我我这个人对你来说有多大意义吗？可以告诉我你需要我吗？可以爱我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083595492152463610",
+        "created_at": "2026-08-01T16:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083595492152463610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083595492152463610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以站在我身边吗？可以偏心我多一点吗？可以再靠近我一点吗？可以把我当成重要的人吗？可以依赖我吗？可以对我有很多占有欲吗？遇到有意思的事物可以第一个分享给我吗？可以告诉我我在你心里的位置吗？可以不欺骗我吗？可以告诉我我这个人对你来说有多大意义吗？可以告诉我你需要我吗？可以爱我吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 29,
+          "like_count": 1614,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

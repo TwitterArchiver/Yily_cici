@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1389396065485398018",
+    "conversation_id": "2083719563083166089",
+    "created_at": "2026-08-02T16:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083959848321081476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082674406502072320",
+          "start": 0,
+          "username": "sooriyi12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083959848321081476",
+    "in_reply_to_user_id": "2082674406502072320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083894989852176711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sooriyi12 拿吧哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2083719563083166089",
+        "created_at": "2026-08-02T16:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083959848321081476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082674406502072320",
+              "start": 0,
+              "username": "sooriyi12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083959848321081476",
+        "in_reply_to_user_id": "2082674406502072320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083894989852176711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sooriyi12 拿吧哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082674406502072320",
+        "conversation_id": "2083719563083166089",
+        "created_at": "2026-08-02T12:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083894989852176711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083894989852176711",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083719563083166089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 可以拿图吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们 祝大家现生愉快。",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2083838098656604439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 25,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-30T03:48:30.000Z",
+        "description": "",
+        "id": "2082674406502072320",
+        "name": "sooriy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082675135765790720/SgYRu2RS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "sooriyi12",
+        "verified": false
+      }
+    ]
+  }
+}
